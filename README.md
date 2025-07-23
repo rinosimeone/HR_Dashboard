@@ -168,4 +168,4 @@ Accedi al dashboard HR direttamente dal browser senza installazioni!
 
 *Trasformato da semplice notebook statico a potente strumento di analisi HR dinamico! 🚀*
 
-<!-- Force deployment update: 2025-01-23 -->
+<!-- Force deployment update: 2025-01-23 14:05 -->
