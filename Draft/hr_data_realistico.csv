@@ -1,0 +1,201 @@
+EmployeeID,EmployeeName,Salary,Position,State,DateOfBirth,Gender,MaritalStatus,HiringDate,TerminationDate,EmploymentStatus,Department,RecruitmentSource,PerformanceScore
+1,Gabriele Mancini,36079,Specialista,IT,09/16/1988,M,Divorced,03/10/2013,,Active,Acquisti,Employee Referral,Needs Improvement
+2,Elena Giordano,35732,Impiegato,IT,05/28/1970,F,Divorced,01/13/2005,,Active,Produzione,LinkedIn,Needs Improvement
+3,Michele Romano,57544,Analista,IT,01/03/1958,M,Widowed,06/27/1991,,Active,Acquisti,Recruiter,Needs Improvement
+4,Roberta Gallo,44193,Impiegato,IT,11/14/1959,F,Widowed,10/13/1994,,Active,Produzione,Career Fair,Fully Meets
+5,Simone Conti,46621,Operaio,IT,05/02/1970,M,Single,06/15/2001,,Active,IT,Indeed,PIP
+6,Roberto Bruno,59575,Manager,IT,01/11/1966,M,Widowed,06/14/1992,,Active,Produzione,Career Fair,Partially Meets
+7,Michele Russo,63504,Manager,IT,03/21/1963,M,Divorced,11/20/1989,,Active,Logistica,Employee Referral,Exceeds
+8,Luca Ferrari,65218,Dirigente,IT,05/06/1958,M,Married,03/10/1987,,Active,Amministrazione,Employee Referral,Fully Meets
+9,Luca Esposito,54792,Analista,IT,12/15/1974,M,Divorced,06/20/1990,,Active,Amministrazione,Employee Referral,PIP
+10,Edoardo Conti,55436,Manager,IT,09/23/1976,M,Divorced,12/07/2001,,Active,Produzione,Company Website,PIP
+11,Simone Marino,59255,Quadro,IT,07/18/1974,M,Widowed,08/11/1993,,Active,Qualità,Career Fair,Exceeds
+12,Manuela Bianchi,43671,Quadro,IT,01/04/1965,F,Single,03/13/1992,,Active,R&D,University,Fully Meets
+13,Luca Ferrari,42566,Specialista,IT,02/23/1975,M,Married,06/10/2008,,Active,Amministrazione,University,PIP
+14,Filippo Bianchi,56446,Manager,IT,03/18/1973,M,Married,12/23/1992,,Active,Acquisti,Company Website,Needs Improvement
+15,Roberta Greco,25594,Responsabile,IT,01/27/1999,F,Single,11/16/2021,,Active,Produzione,Employee Referral,Exceeds
+16,Claudia Bianchi,32332,Impiegato,IT,06/19/1993,F,Divorced,10/26/2010,,Active,Marketing,Recruiter,Needs Improvement
+17,Michele Ferrari,35089,Dirigente,IT,09/05/1986,M,Widowed,04/11/2011,,Active,Produzione,Career Fair,Exceeds
+18,Simone Rizzo,56069,Analista,IT,07/05/1961,M,Divorced,07/09/1994,,Active,R&D,Indeed,Partially Meets
+19,Federico Bruno,53754,Responsabile,IT,01/10/1966,M,Married,07/12/2003,,Active,Produzione,Career Fair,Partially Meets
+20,Alessandro Giordano,35591,Impiegato,IT,06/26/1986,M,Married,02/19/2015,,Active,Produzione,Indeed,Fully Meets
+21,Chiara De Luca,38658,Manager,IT,01/12/1972,F,Divorced,04/19/2003,,Active,Produzione,Employee Referral,PIP
+22,Tommaso Gallo,68807,Responsabile,IT,04/22/1959,M,Married,09/06/1983,,Active,Marketing,Employee Referral,Needs Improvement
+23,Marco Gallo,39269,Operaio,IT,04/22/1993,M,Widowed,11/25/2014,,Active,Logistica,Indeed,PIP
+24,Simone Romano,39152,Responsabile,IT,02/12/1982,M,Married,09/01/2009,,Active,Logistica,Recruiter,Partially Meets
+25,Paola Bruno,27868,Quadro,IT,09/28/1990,F,Widowed,12/15/2011,,Active,Logistica,Company Website,Needs Improvement
+26,Cristina Colombo,42433,Manager,IT,07/20/1978,F,Divorced,12/07/2002,,Active,Logistica,University,Fully Meets
+27,Lorenzo Bianchi,61146,Coordinatore,IT,12/05/1961,M,Divorced,08/26/1984,,Active,IT,University,PIP
+28,Alessandro Ferrari,31462,Responsabile,IT,04/28/1990,M,Widowed,05/27/2018,,Active,Acquisti,University,Exceeds
+29,Simone Esposito,29350,Analista,IT,03/26/2000,M,Widowed,12/03/2020,,Active,Logistica,Career Fair,Exceeds
+30,Elena Rizzo,46929,Operaio,IT,03/14/1959,F,Widowed,07/22/1983,,Active,Produzione,Company Website,Needs Improvement
+31,Tommaso Russo,57311,Manager,IT,01/06/1965,M,Married,08/05/1985,,Active,Produzione,Career Fair,Exceeds
+32,Luca Moretti,52532,Responsabile,IT,12/11/1968,M,Divorced,11/10/1995,,Active,IT,Employee Referral,Exceeds
+33,Alessandro Moretti,37449,Tecnico,IT,07/26/1981,M,Married,04/09/2016,,Active,Produzione,Career Fair,Partially Meets
+34,Federico Bianchi,33014,Operaio,IT,11/28/1980,M,Married,11/05/2015,,Active,Produzione,Career Fair,Fully Meets
+35,Valentina Romano,32462,Coordinatore,IT,12/26/1978,F,Widowed,12/14/2016,,Active,Produzione,Career Fair,Exceeds
+36,Michele Romano,42135,Tecnico,IT,04/09/1978,M,Married,07/03/2015,,Active,Risorse Umane,Indeed,Exceeds
+37,Gabriele Russo,42673,Operaio,IT,03/26/1987,M,Single,08/20/2013,,Active,IT,University,PIP
+38,Monica Gallo,42147,Dirigente,IT,12/04/1969,F,Single,08/19/1994,,Active,Logistica,Company Website,Needs Improvement
+39,Lorenzo Mancini,49268,Analista,IT,07/28/1981,M,Single,07/18/2004,,Active,Produzione,University,Partially Meets
+40,Manuela Greco,26599,Impiegato,IT,01/28/1976,F,Single,09/28/2014,,Active,Produzione,Recruiter,Needs Improvement
+41,Daniela Ricci,26448,Operaio,IT,08/08/1981,F,Single,12/14/2015,,Active,Marketing,Employee Referral,PIP
+42,Edoardo Ricci,57060,Coordinatore,IT,04/27/1964,M,Widowed,09/02/1995,,Active,Qualità,LinkedIn,PIP
+43,Simone Costa,29827,Specialista,IT,08/12/1996,M,Married,06/23/2021,,Active,Vendite,Employee Referral,PIP
+44,Paola Gallo,42881,Impiegato,IT,05/27/1959,F,Married,09/20/1991,,Active,Acquisti,University,Exceeds
+45,Barbara Mancini,29964,Manager,IT,04/08/1990,F,Single,11/03/2019,,Active,Risorse Umane,LinkedIn,Needs Improvement
+46,Gabriele Greco,56974,Operaio,IT,01/22/1962,M,Married,02/25/1994,,Active,Produzione,Employee Referral,Needs Improvement
+47,Federico Giordano,34172,Impiegato,IT,04/13/1978,M,Single,04/22/2013,,Active,Produzione,Indeed,Needs Improvement
+48,Tommaso De Luca,51684,Responsabile,IT,06/09/1967,M,Married,11/12/2005,,Active,Produzione,Indeed,Fully Meets
+49,Andrea Colombo,62253,Operaio,IT,02/25/1964,M,Widowed,03/21/1986,,Active,Marketing,University,Partially Meets
+50,Michele Bianchi,50612,Tecnico,IT,05/12/1966,M,Divorced,10/02/2002,,Active,Produzione,Indeed,Exceeds
+51,Davide Russo,57769,Coordinatore,IT,11/17/1968,M,Single,10/21/1991,,Active,Produzione,Indeed,Partially Meets
+52,Riccardo Gallo,40044,Quadro,IT,07/22/1978,M,Widowed,11/21/2017,,Active,Produzione,Recruiter,Exceeds
+53,Edoardo Esposito,49089,Quadro,IT,09/11/1959,M,Widowed,07/25/2000,,Active,Produzione,Recruiter,Needs Improvement
+54,Elena Esposito,34645,Coordinatore,IT,01/04/1987,F,Single,06/26/2010,,Active,Produzione,LinkedIn,Fully Meets
+55,Simone Ferrari,36946,Specialista,IT,05/06/1986,M,Single,07/04/2018,,Active,Produzione,Recruiter,Fully Meets
+56,Andrea Marino,62137,Coordinatore,IT,10/09/1965,M,Widowed,01/04/1985,,Active,Amministrazione,University,Needs Improvement
+57,Daniela Giordano,41211,Responsabile,IT,01/04/1958,F,Single,05/08/1990,,Active,Acquisti,Employee Referral,Partially Meets
+58,Federica De Luca,37205,Coordinatore,IT,10/14/1986,F,Single,09/24/2011,,Active,Produzione,University,PIP
+59,Antonio Ricci,50584,Coordinatore,IT,06/24/1966,M,Divorced,09/18/1993,,Active,Vendite,Indeed,Needs Improvement
+60,Gabriele Gallo,61519,Impiegato,IT,06/14/1965,M,Divorced,10/23/1990,,Active,Produzione,Career Fair,Exceeds
+61,Marco De Luca,53239,Manager,IT,10/17/1965,M,Single,10/08/2000,,Active,Acquisti,University,Partially Meets
+62,Giuseppe Conti,37314,Quadro,IT,02/13/1983,M,Widowed,08/12/2016,,Active,Produzione,Company Website,PIP
+63,Elena Gallo,23761,Specialista,IT,10/07/1995,F,Married,07/15/2015,,Active,Vendite,Company Website,Fully Meets
+64,Laura Conti,31828,Impiegato,IT,05/02/1987,F,Single,11/19/2014,,Active,Produzione,Company Website,Exceeds
+65,Antonio Gallo,68238,Quadro,IT,12/14/1962,M,Single,12/17/1985,,Active,Produzione,Career Fair,Fully Meets
+66,Lorenzo Rossi,47152,Manager,IT,01/17/1975,M,Married,03/12/2003,,Active,Produzione,University,Exceeds
+67,Luca Esposito,65163,Coordinatore,IT,09/22/1959,M,Married,01/16/1983,,Active,Acquisti,University,PIP
+68,Luca Bianchi,50924,Manager,IT,12/24/1974,M,Married,02/10/2007,,Active,IT,Employee Referral,Exceeds
+69,Alessandro Russo,66734,Quadro,IT,12/22/1964,M,Divorced,07/03/1985,,Active,Produzione,Company Website,PIP
+70,Alessandra Costa,38505,Dirigente,IT,04/12/1967,F,Divorced,02/27/1997,,Active,Acquisti,Company Website,Needs Improvement
+71,Federica Costa,44061,Operaio,IT,07/03/1960,F,Divorced,12/05/1996,,Active,Produzione,University,Needs Improvement
+72,Daniela Moretti,23831,Operaio,IT,11/11/1996,F,Widowed,06/10/2023,,Active,Produzione,LinkedIn,Exceeds
+73,Marco Ferrari,35004,Tecnico,IT,10/11/1990,M,Single,06/15/2010,,Active,Marketing,Employee Referral,Partially Meets
+74,Marco Marino,54558,Responsabile,IT,11/28/1975,M,Divorced,04/17/2001,,Active,IT,Employee Referral,Fully Meets
+75,Paola Bianchi,35408,Manager,IT,02/24/1969,F,Widowed,08/12/2006,,Active,Acquisti,Company Website,Exceeds
+76,Edoardo Moretti,41829,Coordinatore,IT,05/17/1993,M,Widowed,08/04/2014,,Active,Produzione,Employee Referral,Exceeds
+77,Tommaso De Luca,44198,Manager,IT,05/22/1983,M,Married,08/24/2011,,Active,Logistica,LinkedIn,Fully Meets
+78,Francesco Greco,49831,Coordinatore,IT,07/11/1978,M,Married,12/15/2004,,Active,Produzione,Career Fair,Exceeds
+79,Lorenzo Greco,59606,Dirigente,IT,07/23/1972,M,Divorced,06/03/1998,,Active,Qualità,LinkedIn,Fully Meets
+80,Francesca Russo,45906,Dirigente,IT,05/18/1973,F,Single,05/02/1995,,Active,Acquisti,Career Fair,PIP
+81,Lorenzo De Luca,49703,Responsabile,IT,03/07/1968,M,Single,12/04/2000,,Active,Acquisti,Indeed,Partially Meets
+82,Michele Mancini,57838,Specialista,IT,07/22/1965,M,Single,01/28/1986,,Active,Qualità,LinkedIn,Needs Improvement
+83,Antonio Esposito,43225,Quadro,IT,07/22/1987,M,Widowed,06/21/2012,,Active,Amministrazione,University,Needs Improvement
+84,Riccardo Moretti,58480,Tecnico,IT,12/06/1965,M,Widowed,02/22/1992,,Active,Produzione,Indeed,Partially Meets
+85,Simona Rossi,39984,Dirigente,IT,10/19/1972,F,Widowed,03/24/2000,,Active,R&D,Company Website,Fully Meets
+86,Tommaso Lombardi,39568,Impiegato,IT,05/13/1989,M,Widowed,04/17/2017,,Active,Amministrazione,Career Fair,Partially Meets
+87,Lorenzo Bianchi,41085,Operaio,IT,09/27/1972,M,Single,03/18/2009,,Active,Qualità,Indeed,Fully Meets
+88,Alessandra De Luca,33862,Coordinatore,IT,01/10/1968,F,Single,03/11/2001,,Active,Risorse Umane,Indeed,Partially Meets
+89,Marco Moretti,33885,Analista,IT,05/07/1976,M,Married,09/14/2014,,Active,Marketing,Company Website,Exceeds
+90,Roberta Ricci,38588,Operaio,IT,07/26/1971,F,Single,08/08/2001,,Active,Produzione,Indeed,Exceeds
+91,Filippo De Luca,48958,Dirigente,IT,10/20/1967,M,Widowed,07/21/2001,,Active,R&D,Career Fair,Partially Meets
+92,Andrea Ferrari,50595,Dirigente,IT,11/11/1973,M,Widowed,03/06/1994,,Active,Produzione,Career Fair,PIP
+93,Elena Gallo,33994,Impiegato,IT,08/15/1968,F,Divorced,11/22/2008,,Active,Amministrazione,LinkedIn,Partially Meets
+94,Antonio Giordano,51103,Impiegato,IT,08/22/1962,M,Single,07/13/1993,,Active,Vendite,Company Website,Needs Improvement
+95,Simona Giordano,44250,Analista,IT,04/17/1967,F,Single,01/24/1990,,Active,Produzione,Employee Referral,Exceeds
+96,Tommaso Rizzo,55010,Operaio,IT,08/26/1967,M,Married,10/07/1996,,Active,R&D,Career Fair,Partially Meets
+97,Marco Conti,53302,Responsabile,IT,12/06/1971,M,Married,08/19/1996,,Active,Produzione,Indeed,Needs Improvement
+98,Cristina Russo,49975,Analista,IT,11/03/1958,F,Widowed,07/13/1987,,Active,R&D,Career Fair,Exceeds
+99,Federico Gallo,41554,Operaio,IT,05/17/1976,M,Divorced,01/23/2011,,Active,Marketing,Career Fair,PIP
+100,Davide Rossi,62822,Dirigente,IT,11/21/1964,M,Single,04/07/1988,,Active,Amministrazione,University,PIP
+101,Roberta Ferrari,47362,Operaio,IT,10/11/1961,F,Single,05/25/1991,,Active,Acquisti,LinkedIn,Needs Improvement
+102,Stefano Ricci,37972,Coordinatore,IT,02/27/1972,M,Divorced,12/26/2010,,Active,Produzione,Employee Referral,Partially Meets
+103,Francesco Lombardi,40828,Responsabile,IT,04/22/1994,M,Single,02/19/2011,,Active,Produzione,Career Fair,Exceeds
+104,Silvia Bianchi,35022,Dirigente,IT,05/08/1970,F,Married,02/26/2003,,Active,Acquisti,Company Website,PIP
+105,Giuseppe Gallo,52977,Manager,IT,04/05/1967,M,Divorced,09/06/2004,,Active,Produzione,Career Fair,Needs Improvement
+106,Edoardo Bruno,36069,Dirigente,IT,01/02/1998,M,Single,06/11/2023,,Active,Marketing,Company Website,Fully Meets
+107,Andrea Mancini,60836,Operaio,IT,04/16/1964,M,Married,04/15/1991,,Active,Logistica,Company Website,Partially Meets
+108,Riccardo Romano,54330,Quadro,IT,10/28/1960,M,Married,02/09/1996,,Active,Qualità,LinkedIn,Fully Meets
+109,Federica Ferrari,34542,Manager,IT,02/15/1985,F,Widowed,11/28/2012,,Active,Risorse Umane,Employee Referral,Partially Meets
+110,Gabriele Russo,59854,Tecnico,IT,07/21/1960,M,Single,08/17/1989,,Active,Qualità,Company Website,Exceeds
+111,Alessandra Colombo,26747,Dirigente,IT,10/07/1988,F,Divorced,11/11/2018,,Active,Risorse Umane,LinkedIn,Needs Improvement
+112,Giuseppe Colombo,30050,Analista,IT,12/23/1995,M,Married,10/13/2017,,Active,Qualità,Recruiter,Exceeds
+113,Giuseppe Bruno,59344,Specialista,IT,07/16/1958,M,Married,10/13/1993,,Active,Risorse Umane,LinkedIn,Fully Meets
+114,Simone Giordano,62150,Analista,IT,07/08/1958,M,Widowed,10/04/1983,,Active,Marketing,Recruiter,Needs Improvement
+115,Claudia Rizzo,43837,Analista,IT,03/21/1970,F,Divorced,06/12/1993,,Active,Produzione,Career Fair,Exceeds
+116,Riccardo Marino,41819,Specialista,IT,12/01/1993,M,Widowed,08/20/2012,,Active,Produzione,Employee Referral,Exceeds
+117,Sara Colombo,43548,Dirigente,IT,02/25/1961,F,Married,03/27/1989,,Active,Qualità,Company Website,Exceeds
+118,Simone Gallo,60505,Tecnico,IT,07/08/1967,M,Single,11/23/1991,,Active,Produzione,Company Website,Fully Meets
+119,Giuseppe Bruno,41025,Quadro,IT,03/26/1977,M,Divorced,05/20/2015,,Active,Acquisti,Career Fair,Exceeds
+120,Davide Esposito,43713,Manager,IT,12/17/1971,M,Single,10/03/2001,,Active,Produzione,Indeed,PIP
+121,Stefano De Luca,26557,Dirigente,IT,08/02/1991,M,Single,11/05/2022,,Active,Logistica,University,Partially Meets
+122,Federico Mancini,34672,Coordinatore,IT,09/08/1996,M,Widowed,06/04/2020,,Active,IT,Company Website,PIP
+123,Federico Bruno,48473,Tecnico,IT,02/15/1982,M,Married,04/10/2000,,Active,Produzione,University,Fully Meets
+124,Andrea Costa,61588,Tecnico,IT,03/26/1972,M,Single,02/06/1990,,Active,Produzione,Employee Referral,Fully Meets
+125,Cristina Gallo,35862,Operaio,IT,08/22/1971,F,Divorced,06/23/2002,,Active,Logistica,Career Fair,Exceeds
+126,Tommaso Marino,51650,Manager,IT,09/18/1968,M,Widowed,03/17/1996,,Active,Qualità,LinkedIn,Needs Improvement
+127,Antonio De Luca,57019,Analista,IT,10/11/1961,M,Divorced,07/14/1989,,Active,Risorse Umane,Employee Referral,PIP
+128,Antonio De Luca,32141,Quadro,IT,08/20/1999,M,Single,10/05/2022,,Active,Produzione,Company Website,Fully Meets
+129,Michele Romano,53300,Coordinatore,IT,12/17/1974,M,Divorced,10/13/2004,,Active,Acquisti,LinkedIn,Partially Meets
+130,Edoardo Greco,48393,Manager,IT,07/27/1965,M,Widowed,07/06/1999,,Active,IT,Employee Referral,Fully Meets
+131,Luca Esposito,57037,Responsabile,IT,09/15/1962,M,Widowed,08/21/1994,,Active,Produzione,Company Website,PIP
+132,Antonio Bruno,38425,Operaio,IT,03/24/1985,M,Married,09/23/2011,,Active,Risorse Umane,Career Fair,Partially Meets
+133,Simone Greco,48751,Specialista,IT,08/15/1960,M,Divorced,11/06/2000,,Active,Produzione,University,Partially Meets
+134,Gabriele Moretti,51012,Coordinatore,IT,05/25/1975,M,Widowed,09/06/1993,,Active,Acquisti,Company Website,Exceeds
+135,Monica Romano,33051,Manager,IT,04/27/1974,F,Widowed,08/10/2010,,Active,Produzione,Company Website,Needs Improvement
+136,Daniela Gallo,36727,Specialista,IT,11/09/1960,F,Married,03/06/1993,,Active,Produzione,Indeed,Partially Meets
+137,Gabriele Russo,37996,Coordinatore,IT,09/16/1985,M,Widowed,06/27/2016,,Active,Produzione,Indeed,Exceeds
+138,Roberta Moretti,39690,Coordinatore,IT,11/08/1964,F,Single,08/20/1998,,Active,Produzione,Indeed,Needs Improvement
+139,Monica Marino,24347,Quadro,IT,05/15/1992,F,Divorced,01/28/2021,,Active,IT,LinkedIn,Exceeds
+140,Giuseppe Ferrari,56389,Tecnico,IT,02/23/1963,M,Married,06/01/1999,,Active,Produzione,Employee Referral,Fully Meets
+141,Federico Gallo,50809,Coordinatore,IT,05/08/1968,M,Single,08/05/1996,,Active,IT,University,Fully Meets
+142,Elena Romano,42642,Quadro,IT,05/11/1960,F,Single,04/27/1988,,Active,Marketing,University,Needs Improvement
+143,Marco Bianchi,37422,Manager,IT,06/18/1991,M,Divorced,07/18/2015,,Active,Risorse Umane,University,Exceeds
+144,Michele Mancini,35118,Responsabile,IT,02/05/1997,M,Married,09/21/2024,,Active,Qualità,University,PIP
+145,Giuseppe Bianchi,59195,Dirigente,IT,03/08/1966,M,Widowed,08/14/1993,,Active,Produzione,LinkedIn,Exceeds
+146,Antonio Ricci,58416,Dirigente,IT,07/23/1967,M,Married,11/16/1994,,Active,Vendite,Career Fair,PIP
+147,Roberta Gallo,38412,Tecnico,IT,03/23/1967,F,Widowed,07/23/2007,,Active,Risorse Umane,Career Fair,Partially Meets
+148,Federico Lombardi,53320,Quadro,IT,04/03/1967,M,Divorced,08/16/1993,,Active,Amministrazione,LinkedIn,Partially Meets
+149,Giuseppe Moretti,48905,Responsabile,IT,07/14/1974,M,Divorced,03/03/2003,,Active,IT,Company Website,Partially Meets
+150,Alessandro Mancini,52813,Operaio,IT,06/18/1961,M,Single,10/01/1997,,Active,IT,Recruiter,Exceeds
+151,Stefano Gallo,32385,Manager,IT,08/14/2000,M,Single,04/10/2022,,Active,Amministrazione,Recruiter,Needs Improvement
+152,Gabriele Ferrari,33933,Coordinatore,IT,01/07/1983,M,Single,01/09/2015,,Active,R&D,Company Website,PIP
+153,Filippo Bianchi,46349,Coordinatore,IT,07/13/1966,M,Divorced,04/18/1999,,Active,IT,Recruiter,Exceeds
+154,Tommaso Gallo,67390,Manager,IT,10/23/1958,M,Widowed,05/06/1983,,Active,Qualità,Career Fair,Partially Meets
+155,Federico Bruno,38395,Manager,IT,01/28/1988,M,Divorced,08/19/2017,,Active,Amministrazione,LinkedIn,Fully Meets
+156,Davide Ricci,41322,Quadro,IT,10/13/1966,M,Divorced,12/25/2009,,Active,Produzione,Employee Referral,Partially Meets
+157,Francesco Rossi,54280,Coordinatore,IT,08/01/1974,M,Single,08/18/1992,,Active,Logistica,Indeed,Needs Improvement
+158,Andrea Costa,50503,Dirigente,IT,06/10/1968,M,Married,09/04/2003,,Active,Produzione,Career Fair,Partially Meets
+159,Elena Conti,34907,Tecnico,IT,07/28/1978,F,Single,10/04/2009,,Active,Acquisti,LinkedIn,Needs Improvement
+160,Simona Esposito,55288,Dirigente,IT,07/18/1962,F,Married,05/25/1983,,Active,IT,Career Fair,Fully Meets
+161,Davide Marino,56592,Specialista,IT,12/24/1964,M,Widowed,09/27/1992,,Active,Marketing,Career Fair,PIP
+162,Daniela Colombo,31724,Impiegato,IT,09/26/1974,F,Widowed,06/18/2001,,Active,Produzione,LinkedIn,Partially Meets
+163,Michele Greco,44070,Responsabile,IT,10/08/1975,M,Widowed,01/25/2006,,Active,Logistica,Employee Referral,Needs Improvement
+164,Cristina Colombo,28616,Specialista,IT,08/08/1980,F,Single,12/15/2017,,Active,Produzione,Recruiter,PIP
+165,Francesco Bianchi,48716,Impiegato,IT,05/14/1969,M,Single,09/07/1997,,Active,Qualità,Career Fair,Fully Meets
+166,Chiara Mancini,43082,Manager,IT,08/01/1961,F,Single,07/04/1990,,Active,Amministrazione,Employee Referral,Needs Improvement
+167,Andrea Mancini,47557,Dirigente,IT,07/11/1969,M,Divorced,12/27/2006,,Active,Qualità,University,Fully Meets
+168,Antonio Bruno,37573,Operaio,IT,11/22/1994,M,Single,11/25/2021,,Active,Risorse Umane,LinkedIn,Fully Meets
+169,Stefano Ferrari,36852,Tecnico,IT,07/24/1995,M,Divorced,04/10/2013,,Active,Produzione,Company Website,Exceeds
+170,Simona Rizzo,47068,Coordinatore,IT,03/27/1962,F,Widowed,01/15/1984,,Active,R&D,Company Website,PIP
+171,Simone Greco,42499,Analista,IT,08/05/1993,M,Single,05/12/2012,,Active,Acquisti,LinkedIn,Exceeds
+172,Andrea Romano,61155,Analista,IT,10/18/1962,M,Divorced,02/15/1991,,Active,Produzione,University,Fully Meets
+173,Stefano Giordano,30360,Operaio,IT,01/13/1996,M,Widowed,02/25/2024,,Active,Vendite,Company Website,Needs Improvement
+174,Laura Esposito,22078,Impiegato,IT,10/19/1997,F,Widowed,04/07/2023,,Active,Produzione,Recruiter,Partially Meets
+175,Paola Bianchi,33017,Dirigente,IT,11/01/1976,F,Single,12/19/2002,,Active,Produzione,Career Fair,Exceeds
+176,Lorenzo Costa,67360,Analista,IT,02/21/1959,M,Married,12/12/1983,,Active,Produzione,Employee Referral,Partially Meets
+177,Giulia Gallo,30072,Manager,IT,07/05/1980,F,Married,12/20/2006,,Active,Produzione,Indeed,Exceeds
+178,Simona Lombardi,40644,Dirigente,IT,08/06/1968,F,Widowed,11/14/1996,,Active,Produzione,Employee Referral,PIP
+179,Roberta Mancini,45524,Responsabile,IT,01/09/1959,F,Married,03/20/1988,,Active,Produzione,Indeed,Partially Meets
+180,Edoardo Bianchi,34580,Dirigente,IT,07/11/1994,M,Married,03/26/2016,,Active,Logistica,University,Exceeds
+181,Michele Ferrari,57029,Specialista,IT,04/15/1965,M,Divorced,04/27/1986,,Active,Produzione,LinkedIn,Fully Meets
+182,Antonio Greco,33747,Tecnico,IT,06/11/1998,M,Divorced,04/26/2024,,Active,Amministrazione,LinkedIn,Needs Improvement
+183,Federico Costa,32541,Operaio,IT,07/09/1988,M,Divorced,01/19/2021,,Active,Produzione,Indeed,Fully Meets
+184,Tommaso De Luca,29779,Dirigente,IT,07/09/1986,M,Widowed,06/18/2019,,Active,Produzione,Career Fair,PIP
+185,Roberto Lombardi,37053,Dirigente,IT,02/16/1979,M,Married,05/20/2014,,Active,Produzione,Company Website,PIP
+186,Antonio Bianchi,57724,Impiegato,IT,01/24/1970,M,Single,09/06/1999,,Active,Marketing,LinkedIn,Exceeds
+187,Silvia Ferrari,33708,Responsabile,IT,09/02/1972,F,Married,06/23/2003,,Active,Produzione,Recruiter,Fully Meets
+188,Gabriele Mancini,60390,Dirigente,IT,06/08/1972,M,Widowed,05/10/1991,,Active,Acquisti,Recruiter,Partially Meets
+189,Tommaso Gallo,63737,Analista,IT,11/03/1973,M,Divorced,10/09/1990,,Active,Qualità,Recruiter,Exceeds
+190,Federica Rizzo,51849,Dirigente,IT,11/02/1963,F,Widowed,09/22/1986,,Active,Qualità,Career Fair,Exceeds
+191,Filippo Romano,54780,Coordinatore,IT,01/08/1959,M,Divorced,02/05/1990,,Active,Produzione,Recruiter,Fully Meets
+192,Federica De Luca,42278,Dirigente,IT,04/27/1966,F,Widowed,07/02/1995,,Active,Produzione,Indeed,Needs Improvement
+193,Tommaso Russo,40208,Manager,IT,01/20/1988,M,Single,05/28/2013,,Active,Marketing,University,PIP
+194,Francesco Giordano,56128,Specialista,IT,03/08/1961,M,Divorced,11/05/1986,,Active,Produzione,Career Fair,Partially Meets
+195,Alessandro Greco,39359,Tecnico,IT,03/16/1983,M,Divorced,12/28/2008,,Active,Logistica,Company Website,PIP
+196,Andrea Romano,67872,Coordinatore,IT,11/04/1961,M,Married,03/08/1984,,Active,Acquisti,University,Exceeds
+197,Silvia Ricci,42524,Responsabile,IT,10/07/1964,F,Widowed,03/23/1999,,Active,Acquisti,University,Needs Improvement
+198,Stefano Giordano,59092,Manager,IT,08/23/1960,M,Married,06/27/1990,,Active,Risorse Umane,Career Fair,Exceeds
+199,Simone Ferrari,44397,Specialista,IT,05/25/1970,M,Widowed,04/25/2009,,Active,Vendite,Indeed,Needs Improvement
+200,Martina Colombo,24748,Tecnico,IT,06/06/1981,F,Single,11/13/2015,,Active,Acquisti,LinkedIn,Fully Meets

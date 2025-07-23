@@ -1,0 +1,551 @@
+EmployeeID,EmployeeName,Salary,Position,State,DateOfBirth,Gender,MaritalStatus,HiringDate,TerminationDate,EmploymentStatus,Department,RecruitmentSource,PerformanceScore
+1,Marco Rossi,34500,Production Technician I,MA,05/15/1985,M,Married,03/10/2015,,Active,Production,Indeed,Fully Meets
+2,Anna Ferrari,42000,Software Engineer,CA,08/22/1990,F,Single,07/15/2018,,Active,IT/IS,LinkedIn,Exceeds
+3,Francesco Russo,38500,Production Technician II,NY,12/03/1982,M,Married,01/20/2012,,Active,Production,Employee Referral,Fully Meets
+4,Laura Bianchi,58000,Account Manager,TX,04/11/1988,F,Divorced,06/08/2016,,Active,Sales,Company Website,Fully Meets
+5,Giuseppe Romano,72000,Senior Software Engineer,FL,09/17/1980,M,Married,11/12/2014,,Active,IT/IS,LinkedIn,Exceeds
+6,Giulia Gallo,45000,R&D Engineer,MA,02/28/1992,F,Single,04/25/2019,,Active,Engineering,Indeed,Fully Meets
+7,Antonio Costa,36000,Production Technician I,CA,07/09/1987,M,Married,08/14/2013,,Active,Production,Employee Referral,Fully Meets
+8,Paola Fontana,40000,Administrative Assistant,NY,11/21/1985,F,Single,05/30/2017,,Active,Admin Offices,Company Website,Fully Meets
+9,Roberto Esposito,48000,Sales Representative,TX,03/14/1983,M,Married,09/05/2011,02/14/2015,Voluntarily Terminated,Sales,Indeed,Fully Meets
+10,Chiara Ricci,65000,IT Manager,FL,06/07/1986,F,Married,12/18/2016,,Active,IT/IS,LinkedIn,Exceeds
+11,Mario Bruno,41000,Production Technician II,MA,10/25/1984,M,Single,02/22/2018,,Active,Production,Employee Referral,Fully Meets
+12,Sara De Luca,52000,Quality Engineer,CA,01/16/1989,F,Married,07/09/2020,,Active,Engineering,Indeed,Fully Meets
+13,Luca Moretti,38000,Production Technician I,NY,08/30/1991,M,Single,10/14/2021,,Active,Production,Company Website,Fully Meets
+14,Elena Marino,44000,Accountant I,TX,05/05/1987,F,Divorced,03/27/2015,,Active,Admin Offices,LinkedIn,Fully Meets
+15,Paolo Conti,67000,Area Sales Manager,FL,12/12/1981,M,Married,06/16/2013,,Active,Sales,Employee Referral,Exceeds
+16,Valentina Barbieri,55000,System Administrator,MA,09/08/1988,F,Single,11/03/2017,,Active,IT/IS,Indeed,Fully Meets
+17,Matteo Rizzo,39500,Production Technician I,CA,04/19/1990,M,Single,01/12/2019,,Active,Production,Company Website,Fully Meets
+18,Cristina Lombardi,62000,Engineering Manager,NY,07/23/1979,F,Married,08/08/2010,,Active,Engineering,LinkedIn,Exceeds
+19,Andrea Moreno,35000,Production Technician I,TX,02/11/1993,M,Single,04/15/2022,,Active,Production,Indeed,Fully Meets
+20,Roberta Santoro,46000,Sales Representative,FL,11/04/1986,F,Married,09/21/2016,,Active,Sales,Employee Referral,Fully Meets
+21,Simone Caruso,71000,Senior Software Engineer,MA,06/18/1984,M,Married,05/07/2015,,Active,IT/IS,LinkedIn,Exceeds
+22,Silvia Ferrara,37000,Administrative Assistant,CA,10/29/1989,F,Single,12/10/2020,,Active,Admin Offices,Company Website,Fully Meets
+23,Davide Galli,43000,Production Technician II,NY,03/22/1985,M,Divorced,02/03/2014,,Active,Production,Indeed,Fully Meets
+24,Stefania Martini,58000,Account Manager,TX,08/15/1987,F,Married,07/19/2017,,Active,Sales,LinkedIn,Fully Meets
+25,Michele Leone,49000,Software Engineer,FL,01/07/1991,M,Single,10/25/2019,,Active,IT/IS,Employee Referral,Fully Meets
+26,Monica Longo,54000,Quality Engineer,MA,05/31/1983,F,Married,03/14/2012,,Active,Engineering,Company Website,Fully Meets
+27,Claudio Vitale,38500,Production Technician I,CA,12/26/1988,M,Single,06/28/2018,,Active,Production,Indeed,Fully Meets
+28,Federica Serra,41000,Accountant I,NY,09/13/1990,F,Single,11/09/2021,,Active,Admin Offices,LinkedIn,Fully Meets
+29,Fabio Coppola,33000,Production Technician I,TX,04/06/1992,M,Single,01/17/2023,,Active,Production,Employee Referral,Needs Improvement
+30,Martina De Santis,63000,Area Sales Manager,FL,07/28/1982,F,Married,08/23/2013,,Active,Sales,Company Website,Exceeds
+31,Riccardo Mariani,56000,System Administrator,MA,02/20/1986,M,Married,04/11/2016,,Active,IT/IS,Indeed,Fully Meets
+32,Claudia Grassi,44000,Production Technician II,CA,11/12/1987,F,Single,09/05/2018,,Active,Production,LinkedIn,Fully Meets
+33,Alberto Valentini,68000,Engineering Manager,NY,06/04/1980,M,Married,12/20/2011,,Active,Engineering,Employee Referral,Exceeds
+34,Elisa Messina,36000,Administrative Assistant,TX,03/27/1991,F,Single,05/16/2020,,Active,Admin Offices,Company Website,Fully Meets
+35,Emanuele Sala,51000,Sales Representative,FL,10/19/1985,M,Divorced,02/08/2017,,Active,Sales,Indeed,Fully Meets
+36,Simona De Angelis,73000,Senior Software Engineer,MA,08/11/1983,F,Married,07/13/2014,,Active,IT/IS,LinkedIn,Exceeds
+37,Massimo Mancini,40000,Production Technician II,CA,01/03/1989,M,Married,10/27/2019,,Active,Production,Employee Referral,Fully Meets
+38,Giorgia Rinaldi,47000,R&D Engineer,NY,06/25/1988,F,Single,03/21/2018,,Active,Engineering,Company Website,Fully Meets
+39,Lorenzo Ferretti,34500,Production Technician I,TX,11/17/1990,M,Single,06/04/2021,,Active,Production,Indeed,Fully Meets
+40,Elisabetta Palumbo,59000,Account Manager,FL,04/09/1984,F,Married,09/12/2015,,Active,Sales,LinkedIn,Fully Meets
+41,Daniele Benedetti,52000,Software Engineer,MA,09/01/1987,M,Single,12/07/2017,,Active,IT/IS,Employee Referral,Fully Meets
+42,Michela Pellegrini,42000,Accountant I,CA,02/23/1989,F,Married,01/30/2020,,Active,Admin Offices,Company Website,Fully Meets
+43,Gabriele Parisi,37500,Production Technician I,NY,07/16/1992,M,Single,04/18/2022,,Active,Production,Indeed,Fully Meets
+44,Carmen Villa,64000,IT Manager,TX,12/08/1981,F,Married,08/24/2012,,Active,IT/IS,LinkedIn,Exceeds
+45,Pietro Sanna,45000,Production Technician II,FL,05/30/1986,M,Divorced,11/15/2016,,Active,Production,Employee Referral,Fully Meets
+46,Lucia Gatti,53000,Quality Engineer,MA,10/22/1985,F,Married,03/02/2015,,Active,Engineering,Company Website,Fully Meets
+47,Filippo Monti,35000,Production Technician I,CA,03/14/1991,M,Single,06/19/2020,,Active,Production,Indeed,Fully Meets
+48,Daniela Caputo,48000,Sales Representative,NY,08/07/1988,F,Single,09/26/2018,,Active,Sales,LinkedIn,Fully Meets
+49,Gianluca Benedetti,70000,Senior Software Engineer,TX,01/29/1982,M,Married,12/11/2013,,Active,IT/IS,Employee Referral,Exceeds
+50,Serena Pellegrini,39000,Administrative Assistant,FL,06/21/1990,F,Single,02/14/2021,,Active,Admin Offices,Company Website,Fully Meets
+51,Nicola Parisi,41500,Production Technician II,MA,11/13/1987,M,Married,05/08/2017,,Active,Production,Indeed,Fully Meets
+52,Barbara Villa,66000,Area Sales Manager,CA,04/05/1983,F,Divorced,07/23/2014,,Active,Sales,LinkedIn,Exceeds
+53,Vincenzo Sanna,54000,System Administrator,NY,09/27/1986,M,Single,10/10/2018,,Active,IT/IS,Employee Referral,Fully Meets
+54,Giovanna Gatti,46000,R&D Engineer,TX,02/19/1989,F,Married,01/26/2020,,Active,Engineering,Company Website,Fully Meets
+55,Raffaele Monti,36500,Production Technician I,FL,07/12/1991,M,Single,04/03/2022,,Active,Production,Indeed,Fully Meets
+56,Manuela Caputo,61000,Financial Controller,MA,12/04/1980,F,Married,08/17/2011,,Active,Admin Offices,LinkedIn,Fully Meets
+57,Carlo Benedetti,38000,Production Technician I,CA,05/26/1988,M,Married,11/22/2017,,Active,Production,Employee Referral,Fully Meets
+58,Ilaria Pellegrini,57000,Account Manager,NY,10/18/1985,F,Single,03/09/2016,,Active,Sales,Company Website,Fully Meets
+59,Sergio Parisi,72000,Engineering Manager,TX,03/11/1979,M,Married,06/14/2010,,Active,Engineering,Indeed,Exceeds
+60,Beatrice Villa,43000,Production Technician II,FL,08/03/1990,F,Single,09/30/2020,,Active,Production,LinkedIn,Fully Meets
+61,Giorgio Sanna,55000,Software Engineer,MA,01/25/1987,M,Divorced,12/16/2018,,Active,IT/IS,Employee Referral,Fully Meets
+62,Alice Gatti,40000,Accountant I,CA,06/17/1989,F,Single,02/22/2021,,Active,Admin Offices,Company Website,Fully Meets
+63,Leonardo Monti,34000,Production Technician I,NY,11/09/1992,M,Single,05/07/2023,,Active,Production,Indeed,Needs Improvement
+64,Camilla Caputo,49000,Sales Representative,TX,04/01/1986,F,Married,08/12/2016,,Active,Sales,LinkedIn,Fully Meets
+65,Diego Benedetti,68000,Senior Software Engineer,FL,09/23/1983,M,Married,11/28/2014,,Active,IT/IS,Employee Referral,Exceeds
+66,Sofia Pellegrini,44500,Production Technician II,MA,02/15/1988,F,Single,03/15/2018,,Active,Production,Company Website,Fully Meets
+67,Cristiano Parisi,58000,Quality Engineer,CA,07/07/1984,M,Married,06/01/2015,,Active,Engineering,Indeed,Fully Meets
+68,Arianna Villa,37000,Administrative Assistant,NY,12/29/1990,F,Single,09/18/2021,,Active,Admin Offices,LinkedIn,Fully Meets
+69,Mattia Sanna,50000,Sales Representative,TX,05/21/1987,M,Divorced,01/04/2017,,Active,Sales,Employee Referral,Fully Meets
+70,Nicole Gatti,65000,IT Manager,FL,10/13/1982,F,Married,04/20/2013,,Active,IT/IS,Company Website,Exceeds
+71,Tommaso Monti,39500,Production Technician I,MA,03/06/1989,M,Single,07/06/2019,,Active,Production,Indeed,Fully Meets
+72,Jessica Caputo,52000,R&D Engineer,CA,08/28/1986,F,Married,10/22/2016,,Active,Engineering,LinkedIn,Fully Meets
+73,Francesco Rossi,36000,Production Technician I,NY,01/20/1991,M,Single,02/08/2022,,Active,Production,Employee Referral,Fully Meets
+74,Veronica Ferrari,60000,Account Manager,TX,06/12/1984,F,Divorced,05/25/2015,,Active,Sales,Company Website,Fully Meets
+75,Giuseppe Russo,71000,Senior Software Engineer,FL,11/04/1981,M,Married,08/10/2012,,Active,IT/IS,Indeed,Exceeds
+76,Maria Bianchi,41000,Production Technician II,MA,04/26/1988,F,Single,11/17/2018,,Active,Production,LinkedIn,Fully Meets
+77,Antonio Romano,56000,System Administrator,CA,09/18/1985,M,Married,12/23/2016,,Active,IT/IS,Employee Referral,Fully Meets
+78,Anna Gallo,45000,Accountant I,NY,02/10/1990,F,Single,03/31/2021,,Active,Admin Offices,Company Website,Fully Meets
+79,Roberto Costa,38500,Production Technician I,TX,07/02/1987,M,Married,06/07/2017,,Active,Production,Indeed,Fully Meets
+80,Francesca Fontana,63000,Area Sales Manager,FL,12/24/1983,F,Married,09/13/2014,,Active,Sales,LinkedIn,Exceeds
+81,Mario Esposito,42000,Production Technician II,MA,05/16/1989,M,Single,01/19/2020,,Active,Production,Employee Referral,Fully Meets
+82,Laura Ricci,51000,Quality Engineer,CA,10/08/1986,F,Divorced,04/26/2017,,Active,Engineering,Company Website,Fully Meets
+83,Giovanni Bruno,35500,Production Technician I,NY,03/30/1992,M,Single,07/12/2023,,Active,Production,Indeed,Fully Meets
+84,Giulia De Luca,48000,Sales Representative,TX,08/22/1987,F,Married,10/28/2018,,Active,Sales,LinkedIn,Fully Meets
+85,Luca Moretti,69000,Engineering Manager,FL,01/14/1980,M,Married,02/03/2011,,Active,Engineering,Employee Referral,Exceeds
+86,Paola Marino,40500,Administrative Assistant,MA,06/06/1989,F,Single,05/09/2020,,Active,Admin Offices,Company Website,Fully Meets
+87,Paolo Conti,53000,Software Engineer,CA,11/28/1986,M,Married,08/15/2017,,Active,IT/IS,Indeed,Fully Meets
+88,Chiara Barbieri,37000,Production Technician I,NY,04/20/1991,F,Single,11/21/2021,,Active,Production,LinkedIn,Fully Meets
+89,Andrea Rizzo,59000,Account Manager,TX,09/12/1984,M,Divorced,01/07/2016,,Active,Sales,Employee Referral,Fully Meets
+90,Sara Lombardi,66000,IT Manager,FL,02/04/1982,F,Married,04/13/2013,,Active,IT/IS,Company Website,Exceeds
+91,Francesco Moreno,43500,Production Technician II,MA,07/26/1988,M,Single,07/19/2018,,Active,Production,Indeed,Fully Meets
+92,Elena Santoro,47000,R&D Engineer,CA,12/18/1987,F,Married,10/25/2017,,Active,Engineering,LinkedIn,Fully Meets
+93,Matteo Caruso,34500,Production Technician I,NY,05/10/1990,M,Single,02/01/2022,,Active,Production,Employee Referral,Fully Meets
+94,Valentina Ferrara,54000,Quality Engineer,TX,10/02/1985,F,Divorced,05/17/2016,,Active,Engineering,Company Website,Fully Meets
+95,Simone Galli,70000,Senior Software Engineer,FL,03/24/1983,M,Married,08/23/2014,,Active,IT/IS,Indeed,Exceeds
+96,Roberta Martini,39000,Production Technician II,MA,08/16/1989,F,Single,11/29/2019,,Active,Production,LinkedIn,Fully Meets
+97,Davide Leone,57000,System Administrator,CA,01/08/1986,M,Married,03/06/2017,,Active,IT/IS,Employee Referral,Fully Meets
+98,Silvia Longo,42000,Accountant I,NY,06/30/1988,F,Single,06/12/2020,,Active,Admin Offices,Company Website,Fully Meets
+99,Michele Vitale,36000,Production Technician I,TX,11/22/1991,M,Single,09/18/2022,,Active,Production,Indeed,Fully Meets
+100,Stefania Serra,61000,Area Sales Manager,FL,04/14/1984,F,Married,12/04/2015,,Active,Sales,LinkedIn,Exceeds
+101,Claudio Coppola,44000,Production Technician II,MA,09/06/1987,M,Divorced,02/10/2018,,Active,Production,Employee Referral,Fully Meets
+102,Monica De Santis,49000,Sales Representative,CA,02/28/1989,F,Single,05/16/2019,,Active,Sales,Company Website,Fully Meets
+103,Fabio Mariani,67000,Engineering Manager,NY,07/20/1981,M,Married,08/26/2012,,Active,Engineering,Indeed,Exceeds
+104,Federica Grassi,38000,Administrative Assistant,TX,12/12/1990,F,Single,11/02/2021,,Active,Admin Offices,LinkedIn,Fully Meets
+105,Riccardo Valentini,52000,Software Engineer,FL,05/04/1986,M,Married,01/14/2017,,Active,IT/IS,Employee Referral,Fully Meets
+106,Martina Messina,40000,Production Technician I,MA,10/26/1988,F,Single,04/21/2020,,Active,Production,Company Website,Fully Meets
+107,Alberto Sala,58000,Quality Engineer,CA,03/18/1985,M,Divorced,07/27/2016,,Active,Engineering,Indeed,Fully Meets
+108,Claudia De Angelis,35000,Production Technician I,NY,08/10/1992,F,Single,10/03/2023,,Active,Production,LinkedIn,Needs Improvement
+109,Elisa Mancini,64000,IT Manager,TX,01/02/1983,F,Married,12/09/2013,,Active,IT/IS,Employee Referral,Exceeds
+110,Emanuele Rinaldi,41500,Production Technician II,FL,06/24/1989,M,Single,03/16/2019,,Active,Production,Company Website,Fully Meets
+111,Simona Ferretti,53000,Account Manager,MA,11/16/1986,F,Married,06/22/2017,,Active,Sales,Indeed,Fully Meets
+112,Massimo Palumbo,68000,Senior Software Engineer,CA,04/08/1982,M,Married,09/28/2013,,Active,IT/IS,LinkedIn,Exceeds
+113,Giorgia Benedetti,37500,Production Technician I,NY,09/30/1991,F,Single,01/05/2022,,Active,Production,Employee Referral,Fully Meets
+114,Lorenzo Pellegrini,46000,R&D Engineer,TX,02/22/1987,M,Divorced,04/11/2018,,Active,Engineering,Company Website,Fully Meets
+115,Elisabetta Parisi,34000,Production Technician I,FL,07/14/1990,F,Single,07/17/2021,,Active,Production,Indeed,Fully Meets
+116,Daniele Villa,59000,Area Sales Manager,MA,12/06/1984,M,Married,10/23/2015,,Active,Sales,LinkedIn,Exceeds
+117,Michela Sanna,43000,Production Technician II,CA,05/28/1988,F,Single,02/28/2019,,Active,Production,Employee Referral,Fully Meets
+118,Gabriele Gatti,55000,System Administrator,NY,10/20/1985,M,Married,06/04/2016,,Active,IT/IS,Company Website,Fully Meets
+119,Carmen Monti,39500,Accountant I,TX,03/12/1989,F,Single,09/10/2020,,Active,Admin Offices,Indeed,Fully Meets
+120,Pietro Caputo,50000,Sales Representative,FL,08/04/1987,M,Divorced,12/16/2017,,Active,Sales,LinkedIn,Fully Meets
+121,Lucia Benedetti,65000,Engineering Manager,MA,01/26/1981,F,Married,03/23/2012,,Active,Engineering,Employee Referral,Exceeds
+122,Filippo Pellegrini,38500,Production Technician I,CA,06/18/1990,M,Single,06/29/2021,,Active,Production,Company Website,Fully Meets
+123,Daniela Parisi,51000,Quality Engineer,NY,11/10/1986,F,Married,09/05/2017,,Active,Engineering,Indeed,Fully Meets
+124,Gianluca Villa,36000,Production Technician I,TX,04/02/1991,M,Single,12/11/2022,,Active,Production,LinkedIn,Fully Meets
+125,Serena Sanna,63000,IT Manager,FL,09/24/1983,F,Divorced,02/17/2014,,Active,IT/IS,Employee Referral,Exceeds
+126,Nicola Gatti,42000,Production Technician II,MA,02/16/1989,M,Single,05/24/2019,,Active,Production,Company Website,Fully Meets
+127,Barbara Monti,48000,Sales Representative,CA,07/08/1987,F,Married,08/30/2018,,Active,Sales,Indeed,Fully Meets
+128,Vincenzo Caputo,69000,Senior Software Engineer,NY,12/30/1982,M,Married,11/06/2013,,Active,IT/IS,LinkedIn,Exceeds
+129,Giovanna Benedetti,40000,Administrative Assistant,TX,05/22/1988,F,Single,01/12/2020,,Active,Admin Offices,Employee Referral,Fully Meets
+130,Raffaele Pellegrini,54000,Account Manager,FL,10/14/1985,M,Divorced,04/18/2016,,Active,Sales,Company Website,Fully Meets
+131,Manuela Parisi,37000,Production Technician I,MA,03/07/1991,F,Single,07/24/2021,,Active,Production,Indeed,Fully Meets
+132,Carlo Villa,57000,Quality Engineer,CA,08/29/1984,M,Married,10/30/2015,,Active,Engineering,LinkedIn,Fully Meets
+133,Ilaria Sanna,35500,Production Technician I,NY,01/21/1992,F,Single,02/06/2023,,Active,Production,Employee Referral,Needs Improvement
+134,Sergio Gatti,66000,IT Manager,TX,06/13/1982,M,Married,05/19/2013,,Active,IT/IS,Company Website,Exceeds
+135,Beatrice Monti,44500,Production Technician II,FL,11/05/1987,F,Single,08/25/2018,,Active,Production,Indeed,Fully Meets
+136,Giorgio Caputo,52000,System Administrator,MA,04/27/1986,M,Divorced,12/01/2016,,Active,IT/IS,LinkedIn,Fully Meets
+137,Alice Benedetti,41000,Accountant I,CA,09/19/1989,F,Single,03/08/2020,,Active,Admin Offices,Employee Referral,Fully Meets
+138,Leonardo Pellegrini,49000,Sales Representative,NY,02/11/1987,M,Married,06/14/2018,,Active,Sales,Company Website,Fully Meets
+139,Camilla Parisi,67000,Engineering Manager,TX,07/03/1980,F,Married,09/20/2011,,Active,Engineering,Indeed,Exceeds
+140,Diego Villa,38000,Production Technician I,FL,12/25/1990,M,Single,12/26/2021,,Active,Production,LinkedIn,Fully Meets
+141,Sofia Sanna,56000,Account Manager,MA,05/17/1985,F,Divorced,02/02/2016,,Active,Sales,Employee Referral,Fully Meets
+142,Cristiano Gatti,70000,Senior Software Engineer,CA,10/09/1983,M,Married,05/08/2014,,Active,IT/IS,Company Website,Exceeds
+143,Arianna Monti,42500,Production Technician II,NY,03/01/1988,F,Single,08/14/2019,,Active,Production,Indeed,Fully Meets
+144,Mattia Caputo,47000,R&D Engineer,TX,08/23/1986,M,Married,11/20/2017,,Active,Engineering,LinkedIn,Fully Meets
+145,Nicole Benedetti,36500,Production Technician I,FL,01/15/1991,F,Single,04/26/2022,,Active,Production,Employee Referral,Fully Meets
+146,Tommaso Pellegrini,58000,Quality Engineer,MA,06/07/1984,M,Divorced,07/02/2015,,Active,Engineering,Company Website,Fully Meets
+147,Jessica Parisi,34500,Production Technician I,CA,11/29/1992,F,Single,10/08/2023,,Active,Production,Indeed,Needs Improvement
+148,Francesco Villa,62000,Area Sales Manager,NY,04/21/1983,M,Married,01/14/2014,,Active,Sales,LinkedIn,Exceeds
+149,Veronica Sanna,43500,Production Technician II,TX,09/13/1988,F,Single,04/20/2019,,Active,Production,Employee Referral,Fully Meets
+150,Giuseppe Gatti,59000,IT Manager,FL,02/05/1982,M,Married,07/26/2013,,Active,IT/IS,Company Website,Exceeds
+151,Maria Monti,40500,Administrative Assistant,MA,07/27/1989,F,Single,10/02/2020,,Active,Admin Offices,Indeed,Fully Meets
+152,Antonio Caputo,51000,Software Engineer,CA,12/19/1986,M,Divorced,12/08/2016,,Active,IT/IS,LinkedIn,Fully Meets
+153,Anna Benedetti,38000,Production Technician I,NY,05/11/1990,F,Single,03/15/2021,,Active,Production,Employee Referral,Fully Meets
+154,Roberto Pellegrini,64000,Account Manager,TX,10/03/1984,M,Married,06/21/2015,,Active,Sales,Company Website,Fully Meets
+155,Francesca Parisi,68000,Engineering Manager,FL,03/25/1981,F,Married,09/27/2012,,Active,Engineering,Indeed,Exceeds
+156,Mario Villa,41500,Production Technician II,MA,08/17/1988,M,Single,01/03/2019,,Active,Production,LinkedIn,Fully Meets
+157,Laura Sanna,53000,Quality Engineer,CA,01/09/1986,F,Divorced,04/09/2017,,Active,Engineering,Employee Referral,Fully Meets
+158,Giovanni Gatti,36000,Production Technician I,NY,06/01/1991,M,Single,07/15/2022,,Active,Production,Company Website,Fully Meets
+159,Giulia Monti,60000,Area Sales Manager,TX,11/23/1983,F,Married,10/21/2014,,Active,Sales,Indeed,Exceeds
+160,Luca Caputo,44000,Production Technician II,FL,04/15/1987,M,Single,02/27/2018,,Active,Production,LinkedIn,Fully Meets
+161,Paola Benedetti,55000,System Administrator,MA,09/07/1985,F,Married,06/03/2016,,Active,IT/IS,Employee Referral,Fully Meets
+162,Paolo Pellegrini,39000,Accountant I,CA,02/29/1988,M,Single,09/09/2020,,Active,Admin Offices,Company Website,Fully Meets
+163,Chiara Parisi,48000,Sales Representative,NY,07/21/1987,F,Divorced,12/15/2017,,Active,Sales,Indeed,Fully Meets
+164,Andrea Villa,65000,Senior Software Engineer,TX,12/13/1982,M,Married,03/22/2013,,Active,IT/IS,LinkedIn,Exceeds
+165,Sara Sanna,37500,Production Technician I,FL,05/05/1990,F,Single,06/28/2021,,Active,Production,Employee Referral,Fully Meets
+166,Francesco Gatti,52000,R&D Engineer,MA,10/27/1986,M,Married,09/04/2017,,Active,Engineering,Company Website,Fully Meets
+167,Elena Monti,35000,Production Technician I,CA,03/19/1992,F,Single,11/10/2022,,Active,Production,Indeed,Fully Meets
+168,Matteo Caputo,61000,IT Manager,NY,08/11/1983,M,Divorced,01/16/2014,,Active,IT/IS,LinkedIn,Exceeds
+169,Valentina Benedetti,42000,Production Technician II,TX,01/03/1989,F,Single,04/22/2019,,Active,Production,Employee Referral,Fully Meets
+170,Simone Pellegrini,56000,Quality Engineer,FL,06/25/1984,M,Married,07/28/2015,,Active,Engineering,Company Website,Fully Meets
+171,Roberta Parisi,38500,Production Technician I,MA,11/17/1990,F,Single,10/04/2021,,Active,Production,Indeed,Fully Meets
+172,Davide Villa,63000,Account Manager,CA,04/09/1985,M,Divorced,02/10/2016,,Active,Sales,LinkedIn,Fully Meets
+173,Silvia Sanna,69000,Engineering Manager,NY,09/01/1981,F,Married,05/16/2012,,Active,Engineering,Employee Referral,Exceeds
+174,Michele Gatti,43000,Production Technician II,TX,02/23/1988,M,Single,08/22/2018,,Active,Production,Company Website,Fully Meets
+175,Stefania Monti,47000,Sales Representative,FL,07/15/1987,F,Married,11/28/2017,,Active,Sales,Indeed,Fully Meets
+176,Claudio Caputo,71000,Senior Software Engineer,MA,12/07/1982,M,Married,01/04/2013,,Active,IT/IS,LinkedIn,Exceeds
+177,Monica Benedetti,40000,Administrative Assistant,CA,05/29/1989,F,Single,04/10/2020,,Active,Admin Offices,Employee Referral,Fully Meets
+178,Fabio Pellegrini,54000,System Administrator,NY,10/21/1985,M,Divorced,07/16/2016,,Active,IT/IS,Company Website,Fully Meets
+179,Federica Parisi,36500,Production Technician I,TX,03/13/1991,F,Single,10/22/2021,,Active,Production,Indeed,Fully Meets
+180,Riccardo Villa,58000,Quality Engineer,FL,08/05/1984,M,Married,12/28/2015,,Active,Engineering,LinkedIn,Fully Meets
+181,Martina Sanna,34000,Production Technician I,MA,01/27/1992,F,Single,03/05/2023,,Active,Production,Employee Referral,Needs Improvement
+182,Alberto Gatti,62000,Area Sales Manager,CA,06/19/1983,M,Divorced,06/11/2014,,Active,Sales,Company Website,Exceeds
+183,Claudia Monti,44500,Production Technician II,NY,11/11/1987,F,Single,09/17/2018,,Active,Production,Indeed,Fully Meets
+184,Elisa Caputo,50000,R&D Engineer,TX,04/03/1986,F,Married,12/23/2016,,Active,Engineering,LinkedIn,Fully Meets
+185,Emanuele Benedetti,37000,Production Technician I,FL,09/25/1990,M,Single,02/28/2021,,Active,Production,Employee Referral,Fully Meets
+186,Simona Pellegrini,66000,IT Manager,MA,02/17/1982,F,Married,05/06/2013,,Active,IT/IS,Company Website,Exceeds
+187,Massimo Parisi,41000,Production Technician II,CA,07/09/1988,M,Single,08/12/2019,,Active,Production,Indeed,Fully Meets
+188,Giorgia Villa,53000,Account Manager,NY,12/01/1985,F,Divorced,11/18/2016,,Active,Sales,LinkedIn,Fully Meets
+189,Lorenzo Sanna,67000,Senior Software Engineer,TX,05/23/1983,M,Married,01/24/2014,,Active,IT/IS,Employee Referral,Exceeds
+190,Elisabetta Gatti,38000,Administrative Assistant,FL,10/15/1989,F,Single,04/30/2020,,Active,Admin Offices,Company Website,Fully Meets
+191,Daniele Monti,52000,Quality Engineer,MA,03/07/1986,M,Married,07/06/2017,,Active,Engineering,Indeed,Fully Meets
+192,Michela Caputo,35500,Production Technician I,CA,08/29/1991,F,Single,10/12/2022,,Active,Production,LinkedIn,Fully Meets
+193,Gabriele Benedetti,59000,Area Sales Manager,NY,01/21/1984,M,Divorced,02/18/2015,,Active,Sales,Employee Referral,Exceeds
+194,Carmen Pellegrini,43500,Production Technician II,TX,06/13/1988,F,Single,05/24/2019,,Active,Production,Company Website,Fully Meets
+195,Pietro Parisi,55000,System Administrator,FL,11/05/1985,M,Married,08/30/2016,,Active,IT/IS,Indeed,Fully Meets
+196,Lucia Villa,40500,Accountant I,MA,04/27/1989,F,Single,12/06/2020,,Active,Admin Offices,LinkedIn,Fully Meets
+197,Filippo Sanna,48000,Sales Representative,CA,09/19/1987,M,Divorced,03/13/2018,,Active,Sales,Employee Referral,Fully Meets
+198,Daniela Gatti,64000,Engineering Manager,NY,02/11/1981,F,Married,06/19/2012,,Active,Engineering,Company Website,Exceeds
+199,Gianluca Monti,39000,Production Technician I,TX,07/03/1990,M,Single,09/25/2021,,Active,Production,Indeed,Fully Meets
+200,Serena Caputo,56000,Quality Engineer,FL,12/25/1984,F,Married,01/01/2016,,Active,Engineering,LinkedIn,Fully Meets
+201,Nicola Benedetti,36000,Production Technician I,MA,05/17/1991,M,Single,04/07/2022,,Active,Production,Employee Referral,Fully Meets
+202,Barbara Pellegrini,61000,IT Manager,CA,10/09/1983,F,Divorced,07/13/2014,,Active,IT/IS,Company Website,Exceeds
+203,Vincenzo Parisi,42500,Production Technician II,NY,03/01/1988,M,Single,10/19/2018,,Active,Production,Indeed,Fully Meets
+204,Giovanna Villa,51000,Account Manager,TX,08/23/1986,F,Married,01/25/2017,,Active,Sales,LinkedIn,Fully Meets
+205,Raffaele Sanna,68000,Senior Software Engineer,FL,01/15/1982,M,Married,04/02/2013,,Active,IT/IS,Employee Referral,Exceeds
+206,Manuela Gatti,37500,Production Technician I,MA,06/07/1990,F,Single,07/08/2021,,Active,Production,Company Website,Fully Meets
+207,Carlo Monti,53000,R&D Engineer,CA,11/29/1985,M,Divorced,10/14/2016,,Active,Engineering,Indeed,Fully Meets
+208,Ilaria Caputo,34500,Production Technician I,NY,04/21/1992,F,Single,12/20/2022,,Active,Production,LinkedIn,Fully Meets
+209,Sergio Benedetti,62000,Area Sales Manager,TX,09/13/1983,M,Married,02/26/2014,,Active,Sales,Employee Referral,Exceeds
+210,Beatrice Pellegrini,44000,Production Technician II,FL,02/05/1988,F,Single,05/02/2019,,Active,Production,Company Website,Fully Meets
+211,Giorgio Parisi,57000,System Administrator,MA,07/27/1984,M,Married,08/08/2015,,Active,IT/IS,Indeed,Fully Meets
+212,Alice Villa,41500,Accountant I,CA,12/19/1989,F,Single,11/14/2020,,Active,Admin Offices,LinkedIn,Fully Meets
+213,Leonardo Sanna,49000,Sales Representative,NY,05/11/1987,M,Divorced,01/20/2018,,Active,Sales,Employee Referral,Fully Meets
+214,Camilla Gatti,65000,Engineering Manager,TX,10/03/1981,F,Married,04/26/2012,,Active,Engineering,Company Website,Exceeds
+215,Diego Monti,38500,Production Technician I,FL,03/25/1990,M,Single,06/01/2021,,Active,Production,Indeed,Fully Meets
+216,Sofia Caputo,54000,Quality Engineer,MA,08/17/1985,F,Married,09/07/2016,,Active,Engineering,LinkedIn,Fully Meets
+217,Cristiano Benedetti,35000,Production Technician I,CA,01/09/1992,M,Single,11/13/2022,,Active,Production,Employee Referral,Fully Meets
+218,Arianna Pellegrini,60000,IT Manager,NY,06/01/1983,F,Divorced,02/19/2014,,Active,IT/IS,Company Website,Exceeds
+219,Mattia Parisi,43000,Production Technician II,TX,11/23/1987,M,Single,05/25/2018,,Active,Production,Indeed,Fully Meets
+220,Nicole Villa,52000,Account Manager,FL,04/15/1986,F,Married,08/31/2016,,Active,Sales,LinkedIn,Fully Meets
+221,Tommaso Sanna,69000,Senior Software Engineer,MA,09/07/1982,M,Married,12/07/2013,,Active,IT/IS,Employee Referral,Exceeds
+222,Jessica Gatti,40000,Administrative Assistant,CA,02/28/1989,F,Single,03/14/2020,,Active,Admin Offices,Company Website,Fully Meets
+223,Francesco Monti,56000,Quality Engineer,NY,07/21/1984,M,Divorced,06/20/2015,,Active,Engineering,Indeed,Fully Meets
+224,Veronica Caputo,37000,Production Technician I,TX,12/13/1990,F,Single,09/26/2021,,Active,Production,LinkedIn,Fully Meets
+225,Giuseppe Benedetti,63000,Area Sales Manager,FL,05/05/1983,M,Married,01/02/2014,,Active,Sales,Employee Referral,Exceeds
+226,Maria Pellegrini,45000,Production Technician II,MA,10/27/1987,F,Single,04/08/2018,,Active,Production,Company Website,Fully Meets
+227,Antonio Parisi,58000,System Administrator,CA,03/19/1985,M,Married,07/14/2016,,Active,IT/IS,Indeed,Fully Meets
+228,Anna Villa,42000,Accountant I,NY,08/11/1988,F,Single,10/20/2019,,Active,Admin Offices,LinkedIn,Fully Meets
+229,Roberto Sanna,47000,Sales Representative,TX,01/03/1987,M,Divorced,02/26/2017,,Active,Sales,Employee Referral,Fully Meets
+230,Francesca Gatti,66000,Engineering Manager,FL,06/25/1981,F,Married,05/03/2012,,Active,Engineering,Company Website,Exceeds
+231,Mario Monti,39500,Production Technician I,MA,11/17/1989,M,Single,08/09/2020,,Active,Production,Indeed,Fully Meets
+232,Laura Caputo,53000,Quality Engineer,CA,04/09/1986,F,Married,11/15/2016,,Active,Engineering,LinkedIn,Fully Meets
+233,Giovanni Benedetti,36500,Production Technician I,NY,09/01/1991,M,Single,01/21/2022,,Active,Production,Employee Referral,Fully Meets
+234,Giulia Pellegrini,61000,IT Manager,TX,02/23/1983,F,Divorced,04/27/2014,,Active,IT/IS,Company Website,Exceeds
+235,Luca Parisi,44500,Production Technician II,FL,07/15/1988,M,Single,07/03/2018,,Active,Production,Indeed,Fully Meets
+236,Paola Villa,51000,Account Manager,MA,12/07/1985,F,Married,10/09/2016,,Active,Sales,LinkedIn,Fully Meets
+237,Paolo Sanna,70000,Senior Software Engineer,CA,05/29/1982,M,Married,01/15/2013,,Active,IT/IS,Employee Referral,Exceeds
+238,Chiara Gatti,38000,Administrative Assistant,NY,10/21/1989,F,Single,04/21/2020,,Active,Admin Offices,Company Website,Fully Meets
+239,Andrea Monti,55000,Quality Engineer,TX,03/13/1985,M,Divorced,07/27/2015,,Active,Engineering,Indeed,Fully Meets
+240,Sara Caputo,34000,Production Technician I,FL,08/05/1992,F,Single,10/03/2022,,Active,Production,LinkedIn,Needs Improvement
+241,Francesco Benedetti,62000,Area Sales Manager,MA,01/27/1983,M,Married,12/09/2013,,Active,Sales,Employee Referral,Exceeds
+242,Elena Pellegrini,43500,Production Technician II,CA,06/19/1988,F,Single,03/16/2019,,Active,Production,Company Website,Fully Meets
+243,Matteo Parisi,57000,System Administrator,NY,11/11/1984,M,Married,06/22/2015,,Active,IT/IS,Indeed,Fully Meets
+244,Valentina Villa,41000,Accountant I,TX,04/03/1989,F,Single,09/28/2020,,Active,Admin Offices,LinkedIn,Fully Meets
+245,Simone Sanna,48000,Sales Representative,FL,09/25/1987,M,Divorced,12/04/2017,,Active,Sales,Employee Referral,Fully Meets
+246,Roberta Gatti,67000,Engineering Manager,MA,02/17/1981,F,Married,02/10/2012,,Active,Engineering,Company Website,Exceeds
+247,Davide Monti,40500,Production Technician I,CA,07/09/1990,M,Single,05/16/2021,,Active,Production,Indeed,Fully Meets
+248,Silvia Caputo,54000,Quality Engineer,NY,12/01/1985,F,Married,08/22/2016,,Active,Engineering,LinkedIn,Fully Meets
+249,Michele Benedetti,35500,Production Technician I,TX,05/23/1991,M,Single,11/28/2022,,Active,Production,Employee Referral,Fully Meets
+250,Stefania Pellegrini,63000,IT Manager,FL,10/15/1983,F,Divorced,01/04/2014,,Active,IT/IS,Company Website,Exceeds
+251,Claudio Parisi,45000,Production Technician II,MA,03/07/1988,M,Single,04/10/2019,,Active,Production,Indeed,Fully Meets
+252,Monica Villa,52000,Account Manager,CA,08/29/1986,F,Married,07/16/2017,,Active,Sales,LinkedIn,Fully Meets
+253,Fabio Sanna,71000,Senior Software Engineer,NY,01/21/1982,M,Married,10/22/2013,,Active,IT/IS,Employee Referral,Exceeds
+254,Federica Gatti,39000,Administrative Assistant,TX,06/13/1989,F,Single,01/28/2021,,Active,Admin Offices,Company Website,Fully Meets
+255,Riccardo Monti,56000,Quality Engineer,FL,11/05/1984,M,Divorced,05/04/2015,,Active,Engineering,Indeed,Fully Meets
+256,Martina Caputo,37500,Production Technician I,MA,04/27/1990,F,Single,08/10/2021,,Active,Production,LinkedIn,Fully Meets
+257,Alberto Benedetti,64000,Area Sales Manager,CA,09/19/1983,M,Married,11/16/2014,,Active,Sales,Employee Referral,Exceeds
+258,Claudia Pellegrini,44000,Production Technician II,NY,02/11/1988,F,Single,02/22/2019,,Active,Production,Company Website,Fully Meets
+259,Elisa Parisi,58000,System Administrator,TX,07/03/1985,F,Married,05/28/2016,,Active,IT/IS,Indeed,Fully Meets
+260,Emanuele Villa,42500,Accountant I,FL,12/25/1989,M,Single,08/03/2020,,Active,Admin Offices,LinkedIn,Fully Meets
+261,Simona Sanna,49000,Sales Representative,MA,05/17/1987,F,Divorced,11/09/2017,,Active,Sales,Employee Referral,Fully Meets
+262,Massimo Gatti,68000,Engineering Manager,CA,10/09/1981,M,Married,01/15/2012,,Active,Engineering,Company Website,Exceeds
+263,Giorgia Monti,41500,Production Technician I,NY,03/01/1990,F,Single,04/21/2021,,Active,Production,Indeed,Fully Meets
+264,Lorenzo Caputo,55000,Quality Engineer,TX,08/23/1984,M,Married,07/27/2015,,Active,Engineering,LinkedIn,Fully Meets
+265,Elisabetta Benedetti,36000,Production Technician I,FL,01/15/1991,F,Single,10/02/2022,,Active,Production,Employee Referral,Fully Meets
+266,Daniele Pellegrini,62000,IT Manager,MA,06/07/1983,M,Divorced,12/08/2013,,Active,IT/IS,Company Website,Exceeds
+267,Michela Parisi,46000,Production Technician II,CA,11/29/1987,F,Single,03/14/2018,,Active,Production,Indeed,Fully Meets
+268,Gabriele Villa,53000,Account Manager,NY,04/21/1986,M,Married,06/20/2016,,Active,Sales,LinkedIn,Fully Meets
+269,Carmen Sanna,72000,Senior Software Engineer,TX,09/13/1982,F,Married,09/26/2013,,Active,IT/IS,Employee Referral,Exceeds
+270,Pietro Gatti,40000,Administrative Assistant,FL,02/05/1989,M,Single,12/02/2020,,Active,Admin Offices,Company Website,Fully Meets
+271,Lucia Monti,57000,Quality Engineer,MA,07/27/1984,F,Divorced,02/08/2015,,Active,Engineering,Indeed,Fully Meets
+272,Filippo Caputo,38500,Production Technician I,CA,12/19/1990,M,Single,05/14/2021,,Active,Production,LinkedIn,Fully Meets
+273,Daniela Benedetti,65000,Area Sales Manager,NY,05/11/1983,F,Married,08/20/2014,,Active,Sales,Employee Referral,Exceeds
+274,Gianluca Pellegrini,45500,Production Technician II,TX,10/03/1988,M,Single,11/26/2018,,Active,Production,Company Website,Fully Meets
+275,Serena Parisi,59000,System Administrator,FL,02/25/1985,F,Married,01/02/2016,,Active,IT/IS,Indeed,Fully Meets
+276,Nicola Villa,43000,Accountant I,MA,08/17/1989,M,Single,04/08/2020,,Active,Admin Offices,LinkedIn,Fully Meets
+277,Barbara Sanna,50000,Sales Representative,CA,01/09/1987,F,Divorced,07/14/2017,,Active,Sales,Employee Referral,Fully Meets
+278,Vincenzo Gatti,69000,Engineering Manager,NY,06/01/1981,M,Married,10/20/2011,,Active,Engineering,Company Website,Exceeds
+279,Giovanna Monti,42000,Production Technician I,TX,11/23/1989,F,Single,01/26/2021,,Active,Production,Indeed,Fully Meets
+280,Raffaele Caputo,56000,Quality Engineer,FL,04/15/1984,M,Married,05/02/2015,,Active,Engineering,LinkedIn,Fully Meets
+281,Manuela Benedetti,37000,Production Technician I,MA,09/07/1991,F,Single,08/08/2022,,Active,Production,Employee Referral,Fully Meets
+282,Carlo Pellegrini,63000,IT Manager,CA,02/28/1983,M,Divorced,11/14/2013,,Active,IT/IS,Company Website,Exceeds
+283,Ilaria Parisi,47500,Production Technician II,NY,07/21/1987,F,Single,02/20/2018,,Active,Production,Indeed,Fully Meets
+284,Sergio Villa,54000,Account Manager,TX,12/13/1985,M,Married,05/26/2016,,Active,Sales,LinkedIn,Fully Meets
+285,Beatrice Sanna,73000,Senior Software Engineer,FL,05/05/1982,F,Married,08/01/2013,,Active,IT/IS,Employee Referral,Exceeds
+286,Giorgio Gatti,41000,Administrative Assistant,MA,10/27/1989,M,Single,11/07/2020,,Active,Admin Offices,Company Website,Fully Meets
+287,Alice Monti,58000,Quality Engineer,CA,03/19/1984,F,Divorced,01/13/2015,,Active,Engineering,Indeed,Fully Meets
+288,Leonardo Caputo,39500,Production Technician I,NY,08/11/1990,M,Single,04/19/2021,,Active,Production,LinkedIn,Fully Meets
+289,Camilla Benedetti,66000,Area Sales Manager,TX,01/03/1983,F,Married,07/25/2014,,Active,Sales,Employee Referral,Exceeds
+290,Diego Pellegrini,46500,Production Technician II,FL,06/25/1988,M,Single,10/31/2018,,Active,Production,Company Website,Fully Meets
+291,Sofia Parisi,60000,System Administrator,MA,11/17/1984,F,Married,12/07/2015,,Active,IT/IS,Indeed,Fully Meets
+292,Cristiano Villa,44000,Accountant I,CA,04/09/1989,M,Single,03/13/2020,,Active,Admin Offices,LinkedIn,Fully Meets
+293,Arianna Sanna,51000,Sales Representative,NY,09/01/1987,F,Divorced,06/19/2017,,Active,Sales,Employee Referral,Fully Meets
+294,Mattia Gatti,70000,Engineering Manager,TX,02/23/1981,M,Married,09/25/2011,,Active,Engineering,Company Website,Exceeds
+295,Nicole Monti,43500,Production Technician I,FL,07/15/1989,F,Single,12/01/2020,,Active,Production,Indeed,Fully Meets
+296,Tommaso Caputo,57000,Quality Engineer,MA,12/07/1984,M,Married,02/07/2015,,Active,Engineering,LinkedIn,Fully Meets
+297,Jessica Benedetti,38000,Production Technician I,CA,05/29/1991,F,Single,05/13/2022,,Active,Production,Employee Referral,Fully Meets
+298,Francesco Pellegrini,64000,IT Manager,NY,10/21/1983,M,Divorced,08/19/2013,,Active,IT/IS,Company Website,Exceeds
+299,Veronica Parisi,48500,Production Technician II,TX,03/13/1987,F,Single,11/25/2017,,Active,Production,Indeed,Fully Meets
+300,Giuseppe Villa,55000,Account Manager,FL,08/05/1985,M,Married,01/31/2016,,Active,Sales,LinkedIn,Fully Meets
+301,Maria Sanna,74000,Senior Software Engineer,MA,01/27/1982,F,Married,04/06/2013,,Active,IT/IS,Employee Referral,Exceeds
+302,Antonio Gatti,42500,Administrative Assistant,CA,06/19/1989,M,Single,07/12/2020,,Active,Admin Offices,Company Website,Fully Meets
+303,Anna Monti,59000,Quality Engineer,NY,11/11/1984,F,Divorced,10/18/2014,,Active,Engineering,Indeed,Fully Meets
+304,Roberto Caputo,40500,Production Technician I,TX,04/03/1990,M,Single,02/24/2021,,Active,Production,LinkedIn,Fully Meets
+305,Francesca Benedetti,67000,Area Sales Manager,FL,09/25/1983,F,Married,05/30/2014,,Active,Sales,Employee Referral,Exceeds
+306,Mario Pellegrini,47000,Production Technician II,MA,02/17/1988,M,Single,08/05/2018,,Active,Production,Company Website,Fully Meets
+307,Laura Parisi,61000,System Administrator,CA,07/09/1985,F,Married,11/11/2015,,Active,IT/IS,Indeed,Fully Meets
+308,Giovanni Villa,45000,Accountant I,NY,12/01/1989,M,Single,01/17/2020,,Active,Admin Offices,LinkedIn,Fully Meets
+309,Giulia Sanna,52000,Sales Representative,TX,05/23/1987,F,Divorced,04/23/2017,,Active,Sales,Employee Referral,Fully Meets
+310,Luca Gatti,71000,Engineering Manager,FL,10/15/1981,M,Married,07/29/2011,,Active,Engineering,Company Website,Exceeds
+311,Paola Monti,44500,Production Technician I,MA,03/07/1989,F,Single,10/05/2020,,Active,Production,Indeed,Fully Meets
+312,Paolo Caputo,58000,Quality Engineer,CA,08/29/1984,M,Married,12/11/2014,,Active,Engineering,LinkedIn,Fully Meets
+313,Chiara Benedetti,39000,Production Technician I,NY,01/21/1991,F,Single,03/19/2022,,Active,Production,Employee Referral,Fully Meets
+314,Andrea Pellegrini,65000,IT Manager,TX,06/13/1983,M,Divorced,06/25/2013,,Active,IT/IS,Company Website,Exceeds
+315,Sara Parisi,49500,Production Technician II,FL,11/05/1987,F,Single,09/01/2017,,Active,Production,Indeed,Fully Meets
+316,Francesco Villa,56000,Account Manager,MA,04/27/1985,M,Married,12/07/2015,,Active,Sales,LinkedIn,Fully Meets
+317,Elena Sanna,75000,Senior Software Engineer,CA,09/19/1982,F,Married,02/13/2013,,Active,IT/IS,Employee Referral,Exceeds
+318,Matteo Gatti,43000,Administrative Assistant,NY,02/11/1989,M,Single,05/19/2020,,Active,Admin Offices,Company Website,Fully Meets
+319,Valentina Monti,60000,Quality Engineer,TX,07/03/1984,F,Divorced,08/25/2014,,Active,Engineering,Indeed,Fully Meets
+320,Simone Caputo,41500,Production Technician I,FL,12/25/1990,M,Single,11/01/2021,,Active,Production,LinkedIn,Fully Meets
+321,Roberta Benedetti,68000,Area Sales Manager,MA,05/17/1983,F,Married,01/07/2014,,Active,Sales,Employee Referral,Exceeds
+322,Davide Pellegrini,48000,Production Technician II,CA,10/09/1988,M,Single,04/13/2018,,Active,Production,Company Website,Fully Meets
+323,Silvia Parisi,62000,System Administrator,NY,03/01/1985,F,Married,07/19/2015,,Active,IT/IS,Indeed,Fully Meets
+324,Michele Villa,46000,Accountant I,TX,08/23/1989,M,Single,10/25/2019,,Active,Admin Offices,LinkedIn,Fully Meets
+325,Stefania Sanna,53000,Sales Representative,FL,01/15/1987,F,Divorced,02/01/2017,,Active,Sales,Employee Referral,Fully Meets
+326,Claudio Gatti,72000,Engineering Manager,MA,06/07/1981,M,Married,05/07/2011,,Active,Engineering,Company Website,Exceeds
+327,Monica Monti,45500,Production Technician I,CA,11/29/1989,F,Single,08/13/2020,,Active,Production,Indeed,Fully Meets
+328,Fabio Caputo,59000,Quality Engineer,NY,04/21/1984,M,Married,11/19/2014,,Active,Engineering,LinkedIn,Fully Meets
+329,Federica Benedetti,40000,Production Technician I,TX,09/13/1991,F,Single,01/25/2022,,Active,Production,Employee Referral,Fully Meets
+330,Riccardo Pellegrini,66000,IT Manager,FL,02/05/1983,M,Divorced,04/01/2013,,Active,IT/IS,Company Website,Exceeds
+331,Martina Parisi,50500,Production Technician II,MA,07/27/1987,F,Single,07/07/2017,,Active,Production,Indeed,Fully Meets
+332,Alberto Villa,57000,Account Manager,CA,12/19/1985,M,Married,10/13/2015,,Active,Sales,LinkedIn,Fully Meets
+333,Claudia Sanna,76000,Senior Software Engineer,NY,05/11/1982,F,Married,12/19/2012,,Active,IT/IS,Employee Referral,Exceeds
+334,Elisa Gatti,44000,Administrative Assistant,TX,10/03/1989,F,Single,03/25/2020,,Active,Admin Offices,Company Website,Fully Meets
+335,Emanuele Monti,61000,Quality Engineer,FL,02/25/1984,M,Divorced,06/01/2014,,Active,Engineering,Indeed,Fully Meets
+336,Simona Caputo,42500,Production Technician I,MA,08/17/1990,F,Single,09/07/2021,,Active,Production,LinkedIn,Fully Meets
+337,Massimo Benedetti,69000,Area Sales Manager,CA,01/09/1983,M,Married,11/13/2013,,Active,Sales,Employee Referral,Exceeds
+338,Giorgia Pellegrini,49000,Production Technician II,NY,06/01/1988,F,Single,02/19/2018,,Active,Production,Company Website,Fully Meets
+339,Lorenzo Parisi,63000,System Administrator,TX,11/23/1984,M,Married,05/25/2015,,Active,IT/IS,Indeed,Fully Meets
+340,Elisabetta Villa,47000,Accountant I,FL,04/15/1989,F,Single,08/31/2019,,Active,Admin Offices,LinkedIn,Fully Meets
+341,Daniele Sanna,54000,Sales Representative,MA,09/07/1987,M,Divorced,12/06/2016,,Active,Sales,Employee Referral,Fully Meets
+342,Michela Gatti,73000,Engineering Manager,CA,02/28/1981,F,Married,03/12/2011,,Active,Engineering,Company Website,Exceeds
+343,Gabriele Monti,46500,Production Technician I,NY,07/21/1989,M,Single,06/18/2020,,Active,Production,Indeed,Fully Meets
+344,Carmen Caputo,60000,Quality Engineer,TX,12/13/1984,F,Married,09/24/2014,,Active,Engineering,LinkedIn,Fully Meets
+345,Pietro Benedetti,41000,Production Technician I,FL,05/05/1991,M,Single,12/30/2021,,Active,Production,Employee Referral,Fully Meets
+346,Lucia Pellegrini,67000,IT Manager,MA,10/27/1983,F,Divorced,01/06/2013,,Active,IT/IS,Company Website,Exceeds
+347,Filippo Parisi,51500,Production Technician II,CA,03/19/1987,M,Single,05/12/2017,,Active,Production,Indeed,Fully Meets
+348,Daniela Villa,58000,Account Manager,NY,08/11/1985,F,Married,08/18/2015,,Active,Sales,LinkedIn,Fully Meets
+349,Gianluca Sanna,77000,Senior Software Engineer,TX,01/03/1982,M,Married,10/24/2012,,Active,IT/IS,Employee Referral,Exceeds
+350,Serena Gatti,45000,Administrative Assistant,FL,06/25/1989,F,Single,01/30/2020,,Active,Admin Offices,Company Website,Fully Meets
+351,Nicola Monti,62000,Quality Engineer,MA,11/17/1984,M,Divorced,04/06/2014,,Active,Engineering,Indeed,Fully Meets
+352,Barbara Caputo,43500,Production Technician I,CA,04/09/1990,F,Single,07/12/2021,,Active,Production,LinkedIn,Fully Meets
+353,Vincenzo Benedetti,70000,Area Sales Manager,NY,09/01/1983,M,Married,09/18/2013,,Active,Sales,Employee Referral,Exceeds
+354,Giovanna Pellegrini,50000,Production Technician II,TX,02/23/1988,F,Single,12/24/2017,,Active,Production,Company Website,Fully Meets
+355,Raffaele Parisi,64000,System Administrator,FL,07/15/1984,M,Married,03/02/2015,,Active,IT/IS,Indeed,Fully Meets
+356,Manuela Villa,48000,Accountant I,MA,12/07/1989,F,Single,06/08/2019,,Active,Admin Offices,LinkedIn,Fully Meets
+357,Carlo Sanna,55000,Sales Representative,CA,05/29/1987,M,Divorced,09/14/2016,,Active,Sales,Employee Referral,Fully Meets
+358,Ilaria Gatti,74000,Engineering Manager,NY,10/21/1981,F,Married,11/20/2010,,Active,Engineering,Company Website,Exceeds
+359,Sergio Monti,47500,Production Technician I,TX,03/13/1989,M,Single,02/26/2020,,Active,Production,Indeed,Fully Meets
+360,Beatrice Caputo,61000,Quality Engineer,FL,08/05/1984,F,Married,05/04/2014,,Active,Engineering,LinkedIn,Fully Meets
+361,Giorgio Benedetti,42000,Production Technician I,MA,01/27/1991,M,Single,08/10/2022,,Active,Production,Employee Referral,Fully Meets
+362,Alice Pellegrini,68000,IT Manager,CA,06/19/1983,F,Divorced,10/16/2012,,Active,IT/IS,Company Website,Exceeds
+363,Leonardo Parisi,52500,Production Technician II,NY,11/11/1987,M,Single,01/22/2018,,Active,Production,Indeed,Fully Meets
+364,Camilla Villa,59000,Account Manager,TX,04/03/1985,F,Married,04/28/2015,,Active,Sales,LinkedIn,Fully Meets
+365,Diego Sanna,78000,Senior Software Engineer,FL,09/25/1982,M,Married,07/04/2012,,Active,IT/IS,Employee Referral,Exceeds
+366,Sofia Gatti,46000,Administrative Assistant,MA,02/17/1989,F,Single,10/10/2019,,Active,Admin Offices,Company Website,Fully Meets
+367,Cristiano Monti,63000,Quality Engineer,CA,07/09/1984,M,Divorced,12/16/2013,,Active,Engineering,Indeed,Fully Meets
+368,Arianna Caputo,44500,Production Technician I,NY,12/01/1990,F,Single,03/22/2021,,Active,Production,LinkedIn,Fully Meets
+369,Mattia Benedetti,71000,Area Sales Manager,TX,05/23/1983,M,Married,06/28/2013,,Active,Sales,Employee Referral,Exceeds
+370,Nicole Pellegrini,51000,Production Technician II,FL,10/15/1988,F,Single,09/03/2017,,Active,Production,Company Website,Fully Meets
+371,Tommaso Parisi,65000,System Administrator,MA,03/07/1984,M,Married,11/09/2014,,Active,IT/IS,Indeed,Fully Meets
+372,Jessica Villa,49000,Accountant I,CA,08/29/1989,F,Single,02/15/2020,,Active,Admin Offices,LinkedIn,Fully Meets
+373,Francesco Sanna,56000,Sales Representative,NY,01/21/1987,M,Divorced,05/21/2016,,Active,Sales,Employee Referral,Fully Meets
+374,Veronica Gatti,75000,Engineering Manager,TX,06/13/1981,F,Married,08/27/2010,,Active,Engineering,Company Website,Exceeds
+375,Giuseppe Monti,48500,Production Technician I,FL,11/05/1989,M,Single,12/03/2019,,Active,Production,Indeed,Fully Meets
+376,Maria Caputo,62000,Quality Engineer,MA,04/27/1984,F,Married,03/09/2014,,Active,Engineering,LinkedIn,Fully Meets
+377,Antonio Benedetti,43000,Production Technician I,CA,09/19/1990,M,Single,06/15/2021,,Active,Production,Employee Referral,Fully Meets
+378,Anna Pellegrini,69000,IT Manager,NY,02/11/1983,F,Divorced,09/21/2012,,Active,IT/IS,Company Website,Exceeds
+379,Roberto Parisi,53500,Production Technician II,TX,07/03/1987,M,Single,12/27/2017,,Active,Production,Indeed,Fully Meets
+380,Francesca Villa,60000,Account Manager,FL,12/25/1985,F,Married,02/02/2015,,Active,Sales,LinkedIn,Fully Meets
+381,Mario Sanna,79000,Senior Software Engineer,MA,05/17/1982,M,Married,05/08/2012,,Active,IT/IS,Employee Referral,Exceeds
+382,Laura Gatti,47000,Administrative Assistant,CA,10/09/1989,F,Single,08/14/2019,,Active,Admin Offices,Company Website,Fully Meets
+383,Giovanni Monti,64000,Quality Engineer,NY,03/01/1984,M,Divorced,11/20/2013,,Active,Engineering,Indeed,Fully Meets
+384,Giulia Caputo,45500,Production Technician I,TX,08/23/1990,F,Single,01/26/2021,,Active,Production,LinkedIn,Fully Meets
+385,Luca Benedetti,72000,Area Sales Manager,FL,01/15/1983,M,Married,04/04/2013,,Active,Sales,Employee Referral,Exceeds
+386,Paola Pellegrini,52000,Production Technician II,MA,06/07/1988,F,Single,07/10/2017,,Active,Production,Company Website,Fully Meets
+387,Paolo Parisi,66000,System Administrator,CA,11/29/1984,M,Married,10/16/2014,,Active,IT/IS,Indeed,Fully Meets
+388,Chiara Villa,50000,Accountant I,NY,04/21/1989,F,Single,01/22/2020,,Active,Admin Offices,LinkedIn,Fully Meets
+389,Andrea Sanna,57000,Sales Representative,TX,09/13/1987,M,Divorced,03/30/2016,,Active,Sales,Employee Referral,Fully Meets
+390,Sara Gatti,76000,Engineering Manager,FL,02/05/1981,F,Married,06/05/2010,,Active,Engineering,Company Website,Exceeds
+391,Francesco Monti,49500,Production Technician I,MA,07/27/1989,M,Single,09/11/2019,,Active,Production,Indeed,Fully Meets
+392,Elena Caputo,63000,Quality Engineer,CA,12/19/1984,F,Married,12/17/2013,,Active,Engineering,LinkedIn,Fully Meets
+393,Matteo Benedetti,44000,Production Technician I,NY,05/11/1990,M,Single,04/23/2021,,Active,Production,Employee Referral,Fully Meets
+394,Valentina Pellegrini,70000,IT Manager,TX,10/03/1983,F,Divorced,07/29/2012,,Active,IT/IS,Company Website,Exceeds
+395,Simone Parisi,54500,Production Technician II,FL,02/25/1987,M,Single,10/05/2017,,Active,Production,Indeed,Fully Meets
+396,Roberta Villa,61000,Account Manager,MA,08/17/1985,F,Married,12/11/2014,,Active,Sales,LinkedIn,Fully Meets
+397,Davide Sanna,80000,Senior Software Engineer,CA,01/09/1982,M,Married,02/16/2012,,Active,IT/IS,Employee Referral,Exceeds
+398,Silvia Gatti,48000,Administrative Assistant,NY,06/01/1989,F,Single,05/18/2019,,Active,Admin Offices,Company Website,Fully Meets
+399,Michele Monti,65000,Quality Engineer,TX,11/23/1984,M,Divorced,08/24/2013,,Active,Engineering,Indeed,Fully Meets
+400,Stefania Caputo,46500,Production Technician I,FL,04/15/1990,F,Single,11/30/2020,,Active,Production,LinkedIn,Fully Meets
+401,Claudio Benedetti,73000,Area Sales Manager,MA,09/07/1983,M,Married,01/06/2013,,Active,Sales,Employee Referral,Exceeds
+402,Monica Pellegrini,53000,Production Technician II,CA,02/29/1988,F,Single,04/12/2017,,Active,Production,Company Website,Fully Meets
+403,Fabio Parisi,67000,System Administrator,NY,07/21/1984,M,Married,07/18/2014,,Active,IT/IS,Indeed,Fully Meets
+404,Federica Villa,51000,Accountant I,TX,12/13/1989,F,Single,10/24/2019,,Active,Admin Offices,LinkedIn,Fully Meets
+405,Riccardo Sanna,58000,Sales Representative,FL,05/05/1987,M,Divorced,01/01/2016,,Active,Sales,Employee Referral,Fully Meets
+406,Martina Gatti,77000,Engineering Manager,MA,10/27/1981,F,Married,03/09/2010,,Active,Engineering,Company Website,Exceeds
+407,Alberto Monti,50500,Production Technician I,CA,03/19/1989,M,Single,06/16/2019,,Active,Production,Indeed,Fully Meets
+408,Claudia Caputo,64000,Quality Engineer,NY,08/11/1984,F,Married,09/22/2013,,Active,Engineering,LinkedIn,Fully Meets
+409,Elisa Benedetti,45000,Production Technician I,TX,01/03/1991,F,Single,12/28/2020,,Active,Production,Employee Referral,Fully Meets
+410,Emanuele Pellegrini,71000,IT Manager,FL,06/25/1983,M,Divorced,04/05/2012,,Active,IT/IS,Company Website,Exceeds
+411,Simona Parisi,55500,Production Technician II,MA,11/17/1987,F,Single,07/11/2017,,Active,Production,Indeed,Fully Meets
+412,Massimo Villa,62000,Account Manager,CA,04/09/1985,M,Married,10/17/2014,,Active,Sales,LinkedIn,Fully Meets
+413,Giorgia Sanna,81000,Senior Software Engineer,NY,09/01/1982,F,Married,12/23/2011,,Active,IT/IS,Employee Referral,Exceeds
+414,Lorenzo Gatti,49000,Administrative Assistant,TX,02/23/1989,M,Single,03/29/2019,,Active,Admin Offices,Company Website,Fully Meets
+415,Elisabetta Monti,66000,Quality Engineer,FL,07/15/1984,F,Divorced,06/04/2013,,Active,Engineering,Indeed,Fully Meets
+416,Daniele Caputo,47500,Production Technician I,MA,12/07/1990,M,Single,09/10/2020,,Active,Production,LinkedIn,Fully Meets
+417,Michela Benedetti,74000,Area Sales Manager,CA,05/29/1983,F,Married,11/16/2012,,Active,Sales,Employee Referral,Exceeds
+418,Gabriele Pellegrini,54000,Production Technician II,NY,10/21/1988,M,Single,02/22/2017,,Active,Production,Company Website,Fully Meets
+419,Carmen Parisi,68000,System Administrator,TX,03/13/1984,F,Married,05/28/2014,,Active,IT/IS,Indeed,Fully Meets
+420,Pietro Villa,52000,Accountant I,FL,08/05/1989,M,Single,08/03/2019,,Active,Admin Offices,LinkedIn,Fully Meets
+421,Lucia Sanna,59000,Sales Representative,MA,01/27/1987,F,Divorced,11/09/2015,,Active,Sales,Employee Referral,Fully Meets
+422,Filippo Gatti,78000,Engineering Manager,CA,06/19/1981,M,Married,01/15/2010,,Active,Engineering,Company Website,Exceeds
+423,Daniela Monti,51500,Production Technician I,NY,11/11/1989,F,Single,04/21/2019,,Active,Production,Indeed,Fully Meets
+424,Gianluca Caputo,65000,Quality Engineer,TX,04/03/1984,M,Married,07/27/2013,,Active,Engineering,LinkedIn,Fully Meets
+425,Serena Benedetti,46000,Production Technician I,FL,09/25/1990,F,Single,10/03/2020,,Active,Production,Employee Referral,Fully Meets
+426,Nicola Pellegrini,72000,IT Manager,MA,02/17/1983,M,Divorced,12/09/2011,,Active,IT/IS,Company Website,Exceeds
+427,Barbara Parisi,56500,Production Technician II,CA,07/09/1987,F,Single,05/15/2017,,Active,Production,Indeed,Fully Meets
+428,Vincenzo Villa,63000,Account Manager,NY,12/01/1985,M,Married,08/21/2014,,Active,Sales,LinkedIn,Fully Meets
+429,Giovanna Sanna,82000,Senior Software Engineer,TX,05/23/1982,F,Married,10/27/2011,,Active,IT/IS,Employee Referral,Exceeds
+430,Raffaele Gatti,50000,Administrative Assistant,FL,10/15/1989,M,Single,01/02/2019,,Active,Admin Offices,Company Website,Fully Meets
+431,Manuela Monti,67000,Quality Engineer,MA,03/07/1984,F,Divorced,04/08/2013,,Active,Engineering,Indeed,Fully Meets
+432,Carlo Caputo,48500,Production Technician I,CA,08/29/1990,M,Single,07/14/2020,,Active,Production,LinkedIn,Fully Meets
+433,Ilaria Benedetti,75000,Area Sales Manager,NY,01/21/1983,F,Married,09/20/2012,,Active,Sales,Employee Referral,Exceeds
+434,Sergio Pellegrini,55000,Production Technician II,TX,06/13/1988,M,Single,12/26/2016,,Active,Production,Company Website,Fully Meets
+435,Beatrice Parisi,69000,System Administrator,FL,11/05/1984,F,Married,03/04/2014,,Active,IT/IS,Indeed,Fully Meets
+436,Giorgio Villa,53000,Accountant I,MA,04/27/1989,M,Single,06/10/2019,,Active,Admin Offices,LinkedIn,Fully Meets
+437,Alice Sanna,60000,Sales Representative,CA,09/19/1987,F,Divorced,09/16/2015,,Active,Sales,Employee Referral,Fully Meets
+438,Leonardo Gatti,79000,Engineering Manager,NY,02/11/1981,M,Married,11/22/2009,,Active,Engineering,Company Website,Exceeds
+439,Camilla Monti,52500,Production Technician I,TX,07/03/1989,F,Single,02/28/2019,,Active,Production,Indeed,Fully Meets
+440,Diego Caputo,66000,Quality Engineer,FL,12/25/1984,M,Married,05/06/2013,,Active,Engineering,LinkedIn,Fully Meets
+441,Sofia Benedetti,47000,Production Technician I,MA,05/17/1990,F,Single,08/12/2020,,Active,Production,Employee Referral,Fully Meets
+442,Cristiano Pellegrini,73000,IT Manager,CA,10/09/1983,M,Divorced,10/18/2011,,Active,IT/IS,Company Website,Exceeds
+443,Arianna Parisi,57500,Production Technician II,NY,03/01/1987,F,Single,01/24/2017,,Active,Production,Indeed,Fully Meets
+444,Mattia Villa,64000,Account Manager,TX,08/23/1985,M,Married,04/01/2014,,Active,Sales,LinkedIn,Fully Meets
+445,Nicole Sanna,83000,Senior Software Engineer,FL,01/15/1982,F,Married,06/07/2011,,Active,IT/IS,Employee Referral,Exceeds
+446,Tommaso Gatti,51000,Administrative Assistant,MA,06/07/1989,M,Single,09/13/2018,,Active,Admin Offices,Company Website,Fully Meets
+447,Jessica Monti,68000,Quality Engineer,CA,11/29/1984,F,Divorced,12/19/2012,,Active,Engineering,Indeed,Fully Meets
+448,Francesco Caputo,49500,Production Technician I,NY,04/21/1990,M,Single,03/25/2020,,Active,Production,LinkedIn,Fully Meets
+449,Veronica Benedetti,76000,Area Sales Manager,TX,09/13/1983,F,Married,06/01/2012,,Active,Sales,Employee Referral,Exceeds
+450,Giuseppe Pellegrini,56000,Production Technician II,FL,02/05/1988,M,Single,08/07/2016,,Active,Production,Company Website,Fully Meets
+451,Maria Parisi,70000,System Administrator,MA,07/27/1984,F,Married,11/13/2013,,Active,IT/IS,Indeed,Fully Meets
+452,Antonio Villa,54000,Accountant I,CA,12/19/1989,M,Single,02/19/2019,,Active,Admin Offices,LinkedIn,Fully Meets
+453,Anna Sanna,61000,Sales Representative,NY,05/11/1987,F,Divorced,05/25/2015,,Active,Sales,Employee Referral,Fully Meets
+454,Roberto Gatti,80000,Engineering Manager,TX,10/03/1981,M,Married,08/09/2009,,Active,Engineering,Company Website,Exceeds
+455,Francesca Monti,53500,Production Technician I,FL,02/25/1989,F,Single,11/15/2018,,Active,Production,Indeed,Fully Meets
+456,Mario Caputo,67000,Quality Engineer,MA,08/17/1984,M,Married,01/21/2013,,Active,Engineering,LinkedIn,Fully Meets
+457,Laura Benedetti,48000,Production Technician I,CA,01/09/1991,F,Single,04/27/2020,,Active,Production,Employee Referral,Fully Meets
+458,Giovanni Pellegrini,74000,IT Manager,NY,06/01/1983,M,Divorced,07/03/2011,,Active,IT/IS,Company Website,Exceeds
+459,Giulia Parisi,58500,Production Technician II,TX,11/23/1987,F,Single,10/09/2016,,Active,Production,Indeed,Fully Meets
+460,Luca Villa,65000,Account Manager,FL,04/15/1985,M,Married,12/15/2013,,Active,Sales,LinkedIn,Fully Meets
+461,Paola Sanna,84000,Senior Software Engineer,MA,09/07/1982,F,Married,03/17/2011,,Active,IT/IS,Employee Referral,Exceeds
+462,Paolo Gatti,52000,Administrative Assistant,CA,02/28/1989,M,Single,06/23/2018,,Active,Admin Offices,Company Website,Fully Meets
+463,Chiara Monti,69000,Quality Engineer,NY,07/21/1984,F,Divorced,09/29/2012,,Active,Engineering,Indeed,Fully Meets
+464,Andrea Caputo,50500,Production Technician I,TX,12/13/1990,M,Single,01/05/2020,,Active,Production,LinkedIn,Fully Meets
+465,Sara Benedetti,77000,Area Sales Manager,FL,05/05/1983,F,Married,04/11/2012,,Active,Sales,Employee Referral,Exceeds
+466,Francesco Pellegrini,57000,Production Technician II,MA,10/27/1988,M,Single,07/17/2016,,Active,Production,Company Website,Fully Meets
+467,Elena Parisi,71000,System Administrator,CA,03/19/1984,F,Married,10/23/2013,,Active,IT/IS,Indeed,Fully Meets
+468,Matteo Villa,55000,Accountant I,NY,08/11/1989,M,Single,01/29/2019,,Active,Admin Offices,LinkedIn,Fully Meets
+469,Valentina Sanna,62000,Sales Representative,TX,01/03/1987,F,Divorced,04/05/2015,,Active,Sales,Employee Referral,Fully Meets
+470,Simone Gatti,81000,Engineering Manager,FL,06/25/1981,M,Married,07/11/2009,,Active,Engineering,Company Website,Exceeds
+471,Roberta Monti,54500,Production Technician I,MA,11/17/1989,F,Single,10/13/2018,,Active,Production,Indeed,Fully Meets
+472,Davide Caputo,68000,Quality Engineer,CA,04/09/1984,M,Married,12/01/2012,,Active,Engineering,LinkedIn,Fully Meets
+473,Silvia Benedetti,49000,Production Technician I,NY,09/01/1990,F,Single,03/07/2020,,Active,Production,Employee Referral,Fully Meets
+474,Michele Pellegrini,75000,IT Manager,TX,02/23/1983,M,Divorced,05/15/2011,,Active,IT/IS,Company Website,Exceeds
+475,Stefania Parisi,59500,Production Technician II,FL,07/15/1987,F,Single,08/21/2016,,Active,Production,Indeed,Fully Meets
+476,Claudio Villa,66000,Account Manager,MA,12/07/1985,M,Married,11/27/2013,,Active,Sales,LinkedIn,Fully Meets
+477,Monica Sanna,85000,Senior Software Engineer,CA,05/29/1982,F,Married,01/03/2011,,Active,IT/IS,Employee Referral,Exceeds
+478,Fabio Gatti,53000,Administrative Assistant,NY,10/21/1989,M,Single,04/09/2018,,Active,Admin Offices,Company Website,Fully Meets
+479,Federica Monti,70000,Quality Engineer,TX,03/13/1984,F,Divorced,07/17/2012,,Active,Engineering,Indeed,Fully Meets
+480,Riccardo Caputo,51500,Production Technician I,FL,08/05/1990,M,Single,10/23/2019,,Active,Production,LinkedIn,Fully Meets
+481,Martina Benedetti,78000,Area Sales Manager,MA,01/27/1983,F,Married,02/09/2012,,Active,Sales,Employee Referral,Exceeds
+482,Alberto Pellegrini,58000,Production Technician II,CA,06/19/1988,M,Single,05/15/2016,,Active,Production,Company Website,Fully Meets
+483,Claudia Parisi,72000,System Administrator,NY,11/11/1984,F,Married,08/21/2013,,Active,IT/IS,Indeed,Fully Meets
+484,Elisa Villa,56000,Accountant I,TX,04/03/1989,F,Single,12/27/2018,,Active,Admin Offices,LinkedIn,Fully Meets
+485,Emanuele Sanna,63000,Sales Representative,FL,09/25/1987,M,Divorced,02/02/2015,,Active,Sales,Employee Referral,Fully Meets
+486,Simona Gatti,82000,Engineering Manager,MA,02/17/1981,F,Married,05/19/2009,,Active,Engineering,Company Website,Exceeds
+487,Massimo Monti,55500,Production Technician I,CA,07/09/1989,M,Single,08/25/2018,,Active,Production,Indeed,Fully Meets
+488,Giorgia Caputo,69000,Quality Engineer,NY,12/01/1984,F,Married,10/01/2012,,Active,Engineering,LinkedIn,Fully Meets
+489,Lorenzo Benedetti,50000,Production Technician I,TX,05/23/1990,M,Single,01/07/2020,,Active,Production,Employee Referral,Fully Meets
+490,Elisabetta Pellegrini,76000,IT Manager,FL,10/15/1983,F,Divorced,03/15/2011,,Active,IT/IS,Company Website,Exceeds
+491,Daniele Parisi,60500,Production Technician II,MA,03/07/1987,M,Single,06/21/2016,,Active,Production,Indeed,Fully Meets
+492,Michela Villa,67000,Account Manager,CA,08/29/1985,F,Married,09/27/2013,,Active,Sales,LinkedIn,Fully Meets
+493,Gabriele Sanna,86000,Senior Software Engineer,NY,01/21/1982,M,Married,11/13/2010,,Active,IT/IS,Employee Referral,Exceeds
+494,Carmen Gatti,54000,Administrative Assistant,TX,06/13/1989,F,Single,02/17/2018,,Active,Admin Offices,Company Website,Fully Meets
+495,Pietro Monti,71000,Quality Engineer,FL,11/05/1984,M,Divorced,05/23/2012,,Active,Engineering,Indeed,Fully Meets
+496,Lucia Caputo,52500,Production Technician I,MA,04/27/1990,F,Single,08/29/2019,,Active,Production,LinkedIn,Fully Meets
+497,Filippo Benedetti,79000,Area Sales Manager,CA,09/19/1983,M,Married,12/05/2011,,Active,Sales,Employee Referral,Exceeds
+498,Daniela Pellegrini,59000,Production Technician II,NY,02/11/1988,F,Single,03/11/2016,,Active,Production,Company Website,Fully Meets
+499,Gianluca Parisi,73000,System Administrator,TX,07/03/1984,M,Married,06/17/2013,,Active,IT/IS,Indeed,Fully Meets
+500,Serena Villa,57000,Accountant I,FL,12/25/1989,F,Single,09/23/2018,,Active,Admin Offices,LinkedIn,Fully Meets
+501,Nicola Sanna,64000,Sales Representative,MA,05/17/1987,M,Divorced,01/09/2015,,Active,Sales,Employee Referral,Fully Meets
+502,Barbara Gatti,83000,Engineering Manager,CA,10/09/1981,F,Married,04/21/2009,,Active,Engineering,Company Website,Exceeds
+503,Vincenzo Monti,56500,Production Technician I,NY,03/01/1989,M,Single,07/27/2018,,Active,Production,Indeed,Fully Meets
+504,Giovanna Caputo,70000,Quality Engineer,TX,08/23/1984,F,Married,08/03/2012,,Active,Engineering,LinkedIn,Fully Meets
+505,Raffaele Benedetti,51000,Production Technician I,FL,01/15/1991,M,Single,11/09/2019,,Active,Production,Employee Referral,Fully Meets
+506,Manuela Pellegrini,77000,IT Manager,MA,06/07/1983,F,Divorced,01/17/2011,,Active,IT/IS,Company Website,Exceeds
+507,Carlo Parisi,61500,Production Technician II,CA,11/29/1987,M,Single,04/23/2016,,Active,Production,Indeed,Fully Meets
+508,Ilaria Villa,68000,Account Manager,NY,04/21/1985,F,Married,07/29/2013,,Active,Sales,LinkedIn,Fully Meets
+509,Sergio Sanna,87000,Senior Software Engineer,TX,09/13/1982,M,Married,10/11/2010,,Active,IT/IS,Employee Referral,Exceeds
+510,Beatrice Gatti,55000,Administrative Assistant,FL,02/05/1989,F,Single,01/15/2018,,Active,Admin Offices,Company Website,Fully Meets
+511,Giorgio Monti,72000,Quality Engineer,MA,07/27/1984,M,Divorced,03/21/2012,,Active,Engineering,Indeed,Fully Meets
+512,Alice Caputo,53500,Production Technician I,CA,12/19/1990,F,Single,06/25/2019,,Active,Production,LinkedIn,Fully Meets
+513,Leonardo Benedetti,80000,Area Sales Manager,NY,05/11/1983,M,Married,09/03/2011,,Active,Sales,Employee Referral,Exceeds
+514,Camilla Pellegrini,60000,Production Technician II,TX,10/03/1988,F,Single,12/09/2015,,Active,Production,Company Website,Fully Meets
+515,Diego Parisi,74000,System Administrator,FL,02/25/1984,M,Married,05/15/2013,,Active,IT/IS,Indeed,Fully Meets
+516,Sofia Villa,58000,Accountant I,MA,08/17/1989,F,Single,08/21/2018,,Active,Admin Offices,LinkedIn,Fully Meets
+517,Cristiano Sanna,65000,Sales Representative,CA,01/09/1987,M,Divorced,11/27/2014,,Active,Sales,Employee Referral,Fully Meets
+518,Arianna Gatti,84000,Engineering Manager,NY,06/01/1981,F,Married,02/23/2009,,Active,Engineering,Company Website,Exceeds
+519,Mattia Monti,57500,Production Technician I,TX,11/23/1989,M,Single,05/29/2018,,Active,Production,Indeed,Fully Meets
+520,Nicole Caputo,71000,Quality Engineer,FL,04/15/1984,F,Married,06/05/2012,,Active,Engineering,LinkedIn,Fully Meets
+521,Tommaso Benedetti,52000,Production Technician I,MA,09/07/1990,M,Single,09/11/2019,,Active,Production,Employee Referral,Fully Meets
+522,Jessica Pellegrini,78000,IT Manager,CA,02/28/1983,F,Divorced,11/19/2010,,Active,IT/IS,Company Website,Exceeds
+523,Francesco Parisi,62500,Production Technician II,NY,07/21/1987,M,Single,02/25/2016,,Active,Production,Indeed,Fully Meets
+524,Veronica Villa,69000,Account Manager,TX,12/13/1985,F,Married,05/01/2013,,Active,Sales,LinkedIn,Fully Meets
+525,Giuseppe Sanna,88000,Senior Software Engineer,FL,05/05/1982,M,Married,08/13/2010,,Active,IT/IS,Employee Referral,Exceeds
+526,Maria Gatti,56000,Administrative Assistant,MA,10/27/1989,F,Single,11/17/2017,,Active,Admin Offices,Company Website,Fully Meets
+527,Antonio Monti,73000,Quality Engineer,CA,03/19/1984,M,Divorced,01/23/2012,,Active,Engineering,Indeed,Fully Meets
+528,Anna Caputo,54500,Production Technician I,NY,08/11/1990,F,Single,04/29/2019,,Active,Production,LinkedIn,Fully Meets
+529,Roberto Benedetti,81000,Area Sales Manager,TX,01/03/1983,M,Married,07/07/2011,,Active,Sales,Employee Referral,Exceeds
+530,Francesca Pellegrini,61000,Production Technician II,FL,06/25/1988,F,Single,10/13/2015,,Active,Production,Company Website,Fully Meets
+531,Mario Parisi,75000,System Administrator,MA,11/17/1984,M,Married,03/19/2013,,Active,IT/IS,Indeed,Fully Meets
+532,Laura Villa,59000,Accountant I,CA,04/09/1989,F,Single,06/23/2018,,Active,Admin Offices,LinkedIn,Fully Meets
+533,Giovanni Sanna,66000,Sales Representative,NY,09/01/1987,M,Divorced,09/29/2014,,Active,Sales,Employee Referral,Fully Meets
+534,Giulia Gatti,85000,Engineering Manager,TX,02/23/1981,F,Married,12/25/2008,,Active,Engineering,Company Website,Exceeds
+535,Luca Monti,58500,Production Technician I,FL,07/15/1989,M,Single,03/31/2018,,Active,Production,Indeed,Fully Meets
+536,Paola Caputo,72000,Quality Engineer,MA,12/07/1984,F,Married,04/07/2012,,Active,Engineering,LinkedIn,Fully Meets
+537,Paolo Benedetti,53000,Production Technician I,CA,05/29/1990,M,Single,07/13/2019,,Active,Production,Employee Referral,Fully Meets
+538,Chiara Pellegrini,79000,IT Manager,NY,10/21/1983,F,Divorced,09/21/2010,,Active,IT/IS,Company Website,Exceeds
+539,Andrea Parisi,63500,Production Technician II,TX,03/13/1987,M,Single,12/27/2015,,Active,Production,Indeed,Fully Meets
+540,Sara Villa,70000,Account Manager,FL,08/05/1985,F,Married,03/03/2013,,Active,Sales,LinkedIn,Fully Meets
+541,Francesco Sanna,89000,Senior Software Engineer,MA,01/27/1982,M,Married,06/15/2010,,Active,IT/IS,Employee Referral,Exceeds
+542,Elena Gatti,57000,Administrative Assistant,CA,06/19/1989,F,Single,09/19/2017,,Active,Admin Offices,Company Website,Fully Meets
+543,Matteo Monti,74000,Quality Engineer,NY,11/11/1984,M,Divorced,01/25/2012,,Active,Engineering,Indeed,Fully Meets
+544,Valentina Caputo,55500,Production Technician I,TX,04/03/1990,F,Single,05/01/2019,,Active,Production,LinkedIn,Fully Meets
+545,Simone Benedetti,82000,Area Sales Manager,FL,09/25/1983,M,Married,08/09/2011,,Active,Sales,Employee Referral,Exceeds
+546,Roberta Pellegrini,62000,Production Technician II,MA,02/17/1988,F,Single,11/15/2015,,Active,Production,Company Website,Fully Meets
+547,Davide Parisi,76000,System Administrator,CA,07/09/1984,M,Married,02/21/2013,,Active,IT/IS,Indeed,Fully Meets
+548,Silvia Villa,60000,Accountant I,NY,12/01/1989,F,Single,05/25/2018,,Active,Admin Offices,LinkedIn,Fully Meets
+549,Michele Sanna,67000,Sales Representative,TX,05/23/1987,M,Divorced,08/31/2014,,Active,Sales,Employee Referral,Fully Meets
+550,Stefania Gatti,86000,Engineering Manager,FL,10/15/1981,F,Married,11/27/2008,,Active,Engineering,Company Website,Exceeds
