@@ -2,6 +2,8 @@
 
 **🌐 Accesso Online**: [https://rinosimeone.github.io/HR_Dashboard/](https://rinosimeone.github.io/HR_Dashboard/)
 
+> ✅ **GitHub Pages configurato con GitHub Actions workflow**
+
 ## 🎯 **Panoramica del Progetto**
 
 Questo progetto contiene un **notebook Jupyter avanzato** per l'analisi completa dei dati HR con **insight dinamici e intelligenti** che si aggiornano automaticamente in base ai dati reali.
