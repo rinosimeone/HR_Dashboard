@@ -23,11 +23,15 @@ jobs:
           python -m pip install -r requirements.txt
       - name: Build the JupyterLite site
         run: |
+          # Copy all content files to root for JupyterLite
+          cp content/*.ipynb .
+          cp content/hr_data.csv .
+          cp -r content/data . || echo "No data directory to copy"
           cp README.md content
-          echo "Contents of content directory:"
-          ls -la content/
+          echo "Contents of root directory:"
+          ls -la *.ipynb
           echo "Building JupyterLite..."
-          jupyter lite build --contents content --output-dir dist --debug
+          jupyter lite build --output-dir dist --debug
           echo "Contents of dist directory:"
           ls -la dist/
           echo "Contents of dist/files directory:"
