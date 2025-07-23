@@ -1,5 +1,7 @@
 # 📊 Notebook HR - Analisi Dinamica delle Risorse Umane
 
+**🌐 Accesso Online**: [https://rinosimeone.github.io/HR_Dashboard/](https://rinosimeone.github.io/HR_Dashboard/)
+
 ## 🎯 **Panoramica del Progetto**
 
 Questo progetto contiene un **notebook Jupyter avanzato** per l'analisi completa dei dati HR con **insight dinamici e intelligenti** che si aggiornano automaticamente in base ai dati reali.
