@@ -3,6 +3,7 @@
 **🌐 Accesso Online**: [https://rinosimeone.github.io/HR_Dashboard/](https://rinosimeone.github.io/HR_Dashboard/)
 
 > ✅ **GitHub Pages configurato con GitHub Actions workflow**
+> 🔄 **Cache refresh**: 23/07/2025 17:15
 
 ## 🎯 **Panoramica del Progetto**
 
