@@ -158,6 +158,14 @@ Per domande o personalizzazioni:
 - 📊 **Genera raccomandazioni specifiche** per ogni situazione
 - 🚀 **Pronto per l'uso aziendale** senza modifiche
 
+## 🌐 **Accesso Online**
+
+**Dashboard disponibile online**: [https://rinosimeone.github.io/HR_Dashboard/lab/index.html](https://rinosimeone.github.io/HR_Dashboard/lab/index.html)
+
+Accedi al dashboard HR direttamente dal browser senza installazioni!
+
 ---
 
 *Trasformato da semplice notebook statico a potente strumento di analisi HR dinamico! 🚀*
+
+<!-- Force deployment update: 2025-01-23 -->
