@@ -24,7 +24,14 @@ jobs:
       - name: Build the JupyterLite site
         run: |
           cp README.md content
-          jupyter lite build --contents content --output-dir dist
+          echo "Contents of content directory:"
+          ls -la content/
+          echo "Building JupyterLite..."
+          jupyter lite build --contents content --output-dir dist --debug
+          echo "Contents of dist directory:"
+          ls -la dist/
+          echo "Contents of dist/files directory:"
+          ls -la dist/files/ || echo "No files directory found"
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
