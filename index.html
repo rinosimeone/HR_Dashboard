@@ -1,0 +1,175 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>HR Dashboard - Analisi Dinamica delle Risorse Umane</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            min-height: 100vh;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            color: white;
+        }
+        
+        .container {
+            text-align: center;
+            max-width: 800px;
+            padding: 2rem;
+            background: rgba(255, 255, 255, 0.1);
+            backdrop-filter: blur(10px);
+            border-radius: 20px;
+            box-shadow: 0 8px 32px rgba(31, 38, 135, 0.37);
+            border: 1px solid rgba(255, 255, 255, 0.18);
+        }
+        
+        h1 {
+            font-size: 3rem;
+            margin-bottom: 1rem;
+            background: linear-gradient(45deg, #fff, #f0f0f0);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            background-clip: text;
+        }
+        
+        .subtitle {
+            font-size: 1.2rem;
+            margin-bottom: 2rem;
+            opacity: 0.9;
+        }
+        
+        .features {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+            gap: 1.5rem;
+            margin: 2rem 0;
+        }
+        
+        .feature {
+            background: rgba(255, 255, 255, 0.1);
+            padding: 1.5rem;
+            border-radius: 15px;
+            border: 1px solid rgba(255, 255, 255, 0.2);
+        }
+        
+        .feature h3 {
+            font-size: 1.3rem;
+            margin-bottom: 0.5rem;
+        }
+        
+        .cta-button {
+            display: inline-block;
+            background: linear-gradient(45deg, #ff6b6b, #ee5a24);
+            color: white;
+            text-decoration: none;
+            padding: 1rem 2rem;
+            border-radius: 50px;
+            font-size: 1.2rem;
+            font-weight: bold;
+            margin: 2rem 1rem;
+            transition: all 0.3s ease;
+            box-shadow: 0 4px 15px rgba(238, 90, 36, 0.4);
+        }
+        
+        .cta-button:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 6px 20px rgba(238, 90, 36, 0.6);
+        }
+        
+        .secondary-button {
+            background: linear-gradient(45deg, #4834d4, #686de0);
+            box-shadow: 0 4px 15px rgba(72, 52, 212, 0.4);
+        }
+        
+        .secondary-button:hover {
+            box-shadow: 0 6px 20px rgba(72, 52, 212, 0.6);
+        }
+        
+        .notebooks-list {
+            background: rgba(255, 255, 255, 0.1);
+            border-radius: 15px;
+            padding: 1.5rem;
+            margin: 2rem 0;
+            text-align: left;
+        }
+        
+        .notebooks-list h3 {
+            text-align: center;
+            margin-bottom: 1rem;
+        }
+        
+        .notebooks-list ul {
+            list-style: none;
+        }
+        
+        .notebooks-list li {
+            padding: 0.5rem 0;
+            border-bottom: 1px solid rgba(255, 255, 255, 0.1);
+        }
+        
+        .notebooks-list li:last-child {
+            border-bottom: none;
+        }
+        
+        .emoji {
+            font-size: 1.5rem;
+            margin-right: 0.5rem;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>📊 HR Dashboard</h1>
+        <p class="subtitle">Analisi Dinamica delle Risorse Umane con JupyterLite</p>
+        
+        <div class="features">
+            <div class="feature">
+                <h3>🚀 Analisi Interattive</h3>
+                <p>Dashboard completo per l'analisi HR con grafici dinamici e insight automatici</p>
+            </div>
+            <div class="feature">
+                <h3>📈 Moduli Specializzati</h3>
+                <p>6 notebook dedicati per analisi demografiche, retributive, turnover e performance</p>
+            </div>
+            <div class="feature">
+                <h3>🔧 Pronto all'Uso</h3>
+                <p>Sistema automatico di verifica e installazione delle dipendenze Python</p>
+            </div>
+        </div>
+        
+        <div class="notebooks-list">
+            <h3>📚 Notebook Disponibili</h3>
+            <ul>
+                <li><span class="emoji">🎯</span> <strong>00_HR_Dashboard_Principale</strong> - Panoramica generale e collegamenti</li>
+                <li><span class="emoji">👥</span> <strong>01_Analisi_Demografica</strong> - Distribuzione età, genere, dipartimenti</li>
+                <li><span class="emoji">💰</span> <strong>02_Analisi_Retributiva</strong> - Stipendi, benefit e analisi salariali</li>
+                <li><span class="emoji">🔄</span> <strong>03_Analisi_Turnover</strong> - Tasso di turnover e retention</li>
+                <li><span class="emoji">🏖️</span> <strong>04_Proiezioni_Pensionistiche</strong> - Analisi pensionamenti futuri</li>
+                <li><span class="emoji">⭐</span> <strong>05_Performance_Analysis</strong> - Valutazioni e performance</li>
+                <li><span class="emoji">📋</span> <strong>06_Report_Esecutivo</strong> - Report finale per il management</li>
+            </ul>
+        </div>
+        
+        <a href="./lab/index.html" class="cta-button">
+            🚀 Apri JupyterLite
+        </a>
+        
+        <a href="https://github.com/rinosimeone/HR_Dashboard" class="cta-button secondary-button">
+            📂 Codice Sorgente
+        </a>
+        
+        <p style="margin-top: 2rem; opacity: 0.8; font-size: 0.9rem;">
+            Powered by JupyterLite • Python in Browser • No Server Required
+        </p>
+    </div>
+</body>
+</html>
