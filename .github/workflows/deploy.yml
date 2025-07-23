@@ -23,19 +23,20 @@ jobs:
           python -m pip install -r requirements.txt
       - name: Build the JupyterLite site
         run: |
-          # Copy all content files to root for JupyterLite
-          cp content/*.ipynb .
-          cp content/hr_data.csv .
-          cp -r content/data . || echo "No data directory to copy"
-          cp README.md content
+          echo "=== BEFORE BUILD ==="
+          echo "Contents of content directory:"
+          ls -la content/
           echo "Contents of root directory:"
-          ls -la *.ipynb
-          echo "Building JupyterLite..."
-          jupyter lite build --output-dir dist --debug
+          ls -la
+          echo "=== BUILDING JUPYTERLITE ==="
+          jupyter lite build --contents content --output-dir dist
+          echo "=== AFTER BUILD ==="
           echo "Contents of dist directory:"
           ls -la dist/
           echo "Contents of dist/files directory:"
           ls -la dist/files/ || echo "No files directory found"
+          echo "Contents of dist/files/content directory:"
+          ls -la dist/files/content/ || echo "No content directory found"
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
