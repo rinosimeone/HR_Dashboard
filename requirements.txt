@@ -40,11 +40,11 @@ ipycanvas>=0.9.1
 # Python: ipyleaflet library for Jupyter notebooks (optional)
 ipyleaflet
 
-# Python: core data science libraries (mandatory)
+# Python: core data science libraries (mandatory for JupyterLite)
 pandas>=1.2.0
 numpy>=1.20.0
 matplotlib>=3.4.0
-seaborn>=0.11.0
+# Note: seaborn is not available in Pyodide - using matplotlib fallback
 
 # Python: plotting libraries (optional)
 plotly>=6,<7
