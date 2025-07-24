@@ -1,0 +1,9 @@
+# GitHub Pages configuration
+# Force rebuild - 24/07/2025 15:45
+
+# JupyterLite configuration
+title: "HR Analytics Dashboard"
+description: "Dashboard per analisi HR con JupyterLite"
+
+# Disable Jekyll processing for better JupyterLite compatibility
+plugins: []
