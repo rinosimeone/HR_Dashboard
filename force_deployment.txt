@@ -1,3 +1,7 @@
-DEPLOYMENT FORZATO - 24/07/2025 15:35
+DEPLOYMENT FORZATO - 24/07/2025 16:45
 Questo file forza GitHub Pages a ricostruire il sito.
-Il problema è che la cache di GitHub Pages sta servendo una versione vecchia del notebook.
+FIXES APPLICATI:
+- Rimosso seaborn dal requirements.txt (non disponibile in Pyodide)
+- Aggiunto import condizionale di seaborn nel notebook
+- Copiato hr_data_con_turnover.csv nella cartella content
+- Configurazione grafici adattiva (matplotlib fallback)
