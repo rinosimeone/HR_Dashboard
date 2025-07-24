@@ -1,7 +1,8 @@
-DEPLOYMENT FORZATO - 24/07/2025 16:45
+DEPLOYMENT FORZATO - 24/07/2025 17:00 - CACHE BUSTER
 Questo file forza GitHub Pages a ricostruire il sito.
 FIXES APPLICATI:
 - Rimosso seaborn dal requirements.txt (non disponibile in Pyodide)
 - Aggiunto import condizionale di seaborn nel notebook
 - Copiato hr_data_con_turnover.csv nella cartella content
 - Configurazione grafici adattiva (matplotlib fallback)
+- CACHE BUSTER: Forzando nuovo deployment per superare cache GitHub Pages
